@@ -3,6 +3,24 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.2.4</title>
+      <description><![CDATA[
+        <h2>What's new in 1.2.4</h2>
+        <ul>
+          <li><b>Plugin Store</b> — browse, search, and install Claude Code plugins without touching the terminal. Find it in the sidebar under your projects (puzzle-piece icon). Filter by category, search by name or keyword, and install with one click. Installed plugins show a checkmark and can be uninstalled from the card or the detail view.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 03 Jul 2026 23:30:00 +0000</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>1.2.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.2.4/BerriesCode-1.2.4.zip"
+        sparkle:edSignature="xknbDFjJG04XrMgwQQb2awAT0NglbCHdUDZsOAo6S6u1hD6Uw6l6gZjjhbl2JOVErRsaFy1swKTNz0hF0wevAQ=="
+        length="5577491"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.2.3</title>
       <description><![CDATA[
         <h2>What's new in 1.2.3</h2>
