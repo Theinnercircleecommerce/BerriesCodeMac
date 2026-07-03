@@ -3,6 +3,24 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.2.2</title>
+      <description><![CDATA[
+        <h2>What's new in 1.2.2</h2>
+        <ul>
+          <li><b>Fix: chats disappeared from the sidebar after 1.2.1</b> — the background-session filter was too broad and also hid chats created by this app. No data was lost; all chats reappear after this update.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 03 Jul 2026 20:50:00 +0000</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.2.2/BerriesCode-1.2.2.zip"
+        sparkle:edSignature="8LX7Ab39xa8ePNj7VhQLcyW0GQpIe8yXxTF2nDpN+ACIA/MdJRSbX2HEfWFpYcaPH2HKSQyL5PBiq27ymcKGCg=="
+        length="5441772"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.2.1</title>
       <description><![CDATA[
         <h2>What's new in 1.2.1</h2>
