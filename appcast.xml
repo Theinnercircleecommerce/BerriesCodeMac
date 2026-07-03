@@ -3,22 +3,23 @@
   <channel>
     <title>Berries Code</title>
     <item>
-      <title>Version 1.1.2</title>
+      <title>Version 1.2.0</title>
       <description><![CDATA[
-        <h2>What's new in 1.1.2</h2>
+        <h2>What's new in 1.2.0</h2>
         <ul>
-          <li><b>App-wide freeze fix</b> — huge messages (like @-mentioned files and folders) no longer hang the app for seconds at a time.</li>
-          <li>Smoother streaming while Claude is responding.</li>
+          <li><b>Drag &amp; drop images</b> — drop an image anywhere in the app and it attaches as a chip, exactly like the + button. Works with Finder files, screenshot thumbnails, and images dragged from browsers.</li>
+          <li>Dropping an image on the message box no longer pastes the file path as text.</li>
+          <li>A "Drop image to attach" highlight shows while you're dragging.</li>
         </ul>
       ]]></description>
-      <pubDate>Thu, 03 Jul 2026 17:00:00 +0000</pubDate>
-      <sparkle:version>4</sparkle:version>
-      <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+      <pubDate>Thu, 03 Jul 2026 18:30:00 +0000</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.1.2/BerriesCode-1.1.2.zip"
-        sparkle:edSignature="5Ecf602pmzdHUNDqLiNHtKrYDKb5e201L0LKZvZoGA6uAfIIr/aENaAIwCkYZtgVC++Mu/T2Lq8zhDmH1C0DCA=="
-        length="5418923"
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.2.0/BerriesCode-1.2.0.zip"
+        sparkle:edSignature="Vi9RQgeOwj0bj6poSDifmsCJZqJZi4tPcxTdBOo1mdT/ydLSPNW9GjaLIfla+M4rM/bWupDN41zPW6a3wdqDCA=="
+        length="5439844"
         type="application/octet-stream"/>
     </item>
   </channel>
