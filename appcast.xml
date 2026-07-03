@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Berries Code</title>
+    <item>
+      <title>Version 1.1.0</title>
+      <description><![CDATA[
+        <h2>What's new in 1.1.0</h2>
+        <ul>
+          <li><b>Usage in Settings</b> — see your Claude session and weekly limits with live progress bars, the same numbers the Claude app shows.</li>
+          <li>Update system fixed — updates are now signed and install in one click.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 03 Jul 2026 17:57:13 +0200</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.1.0/BerriesCode-1.1.0.zip"
+        sparkle:edSignature="HoHX09m43AlNwJ/hTcLjacoYXw0apfWqVamGoipgITR6ovTtcSg5h0Ve2nPVGcCd7u8OqSPugeVgkAcf3TkrCw=="
+        length="5413961"
+        type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
