@@ -3,6 +3,25 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.2.3</title>
+      <description><![CDATA[
+        <h2>What's new in 1.2.3</h2>
+        <ul>
+          <li><b>Select text mode</b> — a new "Select text" button at the top-right of the chat turns the conversation into one continuous document, so you can drag-select any part (or all) of a chat and copy it. Copied text comes out labeled You:/Claude: so it stays readable wherever you paste it.</li>
+          <li><b>Clean chats</b> — internal machinery (skill instructions, plugin/hook notes) no longer shows up inside your conversations.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 03 Jul 2026 21:40:00 +0000</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>1.2.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.2.3/BerriesCode-1.2.3.zip"
+        sparkle:edSignature="pPE6/D8XagrHlo5jgba3O/qcWttM313vTzf0kiZMoNGPZOHQhW6Mz4J2CniPhdNNWJuf7Cx+u7oESP2b7wTZAw=="
+        length="5454792"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.2.2</title>
       <description><![CDATA[
         <h2>What's new in 1.2.2</h2>
