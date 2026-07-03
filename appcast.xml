@@ -3,22 +3,21 @@
   <channel>
     <title>Berries Code</title>
     <item>
-      <title>Version 1.1.0</title>
+      <title>Version 1.1.1</title>
       <description><![CDATA[
-        <h2>What's new in 1.1.0</h2>
+        <h2>What's new in 1.1.1</h2>
         <ul>
-          <li><b>Usage in Settings</b> — see your Claude session and weekly limits with live progress bars, the same numbers the Claude app shows.</li>
-          <li>Update system fixed — updates are now signed and install in one click.</li>
+          <li><b>Freeze fix</b> — sidebar and settings panel no longer freeze while Claude is streaming a response.</li>
         </ul>
       ]]></description>
-      <pubDate>Fri, 03 Jul 2026 17:57:13 +0200</pubDate>
-      <sparkle:version>2</sparkle:version>
-      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <pubDate>Thu, 03 Jul 2026 00:00:00 +0000</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.1.0/BerriesCode-1.1.0.zip"
-        sparkle:edSignature="HoHX09m43AlNwJ/hTcLjacoYXw0apfWqVamGoipgITR6ovTtcSg5h0Ve2nPVGcCd7u8OqSPugeVgkAcf3TkrCw=="
-        length="5413961"
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.1.1/BerriesCode-1.1.1.zip"
+        sparkle:edSignature="+Uxdq+wDJfB8qb+H7rJMggSYARv60YehV5A0Bc6rge4nrT9Sd7K6cuPRWeoGXrr0FhE7JAhW5QR0mQy1TYvWBg=="
+        length="5418030"
         type="application/octet-stream"/>
     </item>
   </channel>
