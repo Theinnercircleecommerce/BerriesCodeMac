@@ -3,6 +3,24 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.2.14</title>
+      <description><![CDATA[
+        <h2>What's new in 1.2.14</h2>
+        <ul>
+          <li><b>Fix: no more bouncing chat</b> — the little dot next to the thinking label sat in a chat area that wobbled up and down while working (introduced in 1.2.13 by the new sidebar pulse animation). The chat is steady again; the sidebar dot still pulses.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sat, 04 Jul 2026 17:45:00 +0000</pubDate>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>1.2.14</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.2.14/BerriesCode-1.2.14.zip"
+        sparkle:edSignature="CngKTLM3+Mi899JQO6K5uett4AYl7e/uybBH3SI9kHSdu1gyqdaI2fd5a9Oy1oIRvgDq5ZtrljUxI355Y/A0Dw=="
+        length="5579444"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.2.13</title>
       <description><![CDATA[
         <h2>What's new in 1.2.13</h2>
