@@ -3,6 +3,24 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.2.11</title>
+      <description><![CDATA[
+        <h2>What's new in 1.2.11</h2>
+        <ul>
+          <li><b>Fix: scroll freeze actually gone</b> — rows now render at their final height the moment they appear. No more layout jumping, no more main thread stalls during scroll.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 04 Jul 2026 14:00:00 +0000</pubDate>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>1.2.11</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.2.11/BerriesCode-1.2.11.zip"
+        sparkle:edSignature="kLMNn1Wmf/GIExbTk6W/eI8Nzw42U3kbyTVUZhYDlfrjZDSE4SBDfTdKxjifM6LT2t+3082kN9Iv4ZoMv1dcDg=="
+        length="5574900"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.2.10</title>
       <description><![CDATA[
         <h2>What's new in 1.2.10</h2>
