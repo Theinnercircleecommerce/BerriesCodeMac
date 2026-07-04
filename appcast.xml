@@ -3,6 +3,24 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.2.6</title>
+      <description><![CDATA[
+        <h2>What's new in 1.2.6</h2>
+        <ul>
+          <li><b>Strawberry menu bar icon</b> — the menu bar icon is now the Berries Code strawberry silhouette, and correctly switches between black and white based on your menu bar style.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 04 Jul 2026 12:27:00 +0000</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>1.2.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.2.6/BerriesCode-1.2.6.zip"
+        sparkle:edSignature="ux2l+Ei9H6LoGBP6SBPZiZVqyfJWAD0y2XADrG6JWxns43psxkgbzonAGUDMtLVl3Eee2j5jQW2B5oJdddVcBQ=="
+        length="5578412"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.2.5</title>
       <description><![CDATA[
         <h2>What's new in 1.2.5</h2>
