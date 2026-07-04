@@ -3,6 +3,24 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.2.8</title>
+      <description><![CDATA[
+        <h2>What's new in 1.2.8</h2>
+        <ul>
+          <li><b>Fix: scroll freeze completely gone</b> — text rendering and syntax highlighting now happen off the main thread as rows load while scrolling. The app stays smooth no matter how long the chat is.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 04 Jul 2026 13:05:00 +0000</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>1.2.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.2.8/BerriesCode-1.2.8.zip"
+        sparkle:edSignature="VJcbQJjnnMMpk3P8sTFgJmovQOQ2CIoJLeYhX/P5ud0qEoQsJuh1KOs0mWA4oqMtPilOdv2O8vhMCWQU0b83BQ=="
+        length="5570832"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.2.7</title>
       <description><![CDATA[
         <h2>What's new in 1.2.7</h2>
