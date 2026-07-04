@@ -3,6 +3,24 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.2.10</title>
+      <description><![CDATA[
+        <h2>What's new in 1.2.10</h2>
+        <ul>
+          <li><b>Fix: old chats now open at the bottom</b> — opening a previous chat now correctly lands you at the most recent message.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 04 Jul 2026 13:45:00 +0000</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>1.2.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.2.10/BerriesCode-1.2.10.zip"
+        sparkle:edSignature="Wjw0IZ+YZHntryf4E3ICFdNHeienR5DFDJ3hfTA+6pJxZ0m+kzza4AJjB8vRT/5o/GukzPvDxRPJo4ksU34ZBQ=="
+        length="5572868"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.2.9</title>
       <description><![CDATA[
         <h2>What's new in 1.2.9</h2>
