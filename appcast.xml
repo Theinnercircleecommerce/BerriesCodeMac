@@ -3,6 +3,24 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.2.9</title>
+      <description><![CDATA[
+        <h2>What's new in 1.2.9</h2>
+        <ul>
+          <li><b>Fix: scroll freeze properly solved</b> — all text rendering (markdown parsing, syntax highlighting) now runs on a background thread. The main thread does nothing while rows load during scroll.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 04 Jul 2026 13:30:00 +0000</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>1.2.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.2.9/BerriesCode-1.2.9.zip"
+        sparkle:edSignature="IdZ4/+nJ5d5dTYfyuCsT07VbTsFJpPjJPdcaUsx0bD+W1ssuukilNU5hZ1B5ouPnioNJKq/HZW82Wl+WA+PYCg=="
+        length="5572772"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.2.8</title>
       <description><![CDATA[
         <h2>What's new in 1.2.8</h2>
