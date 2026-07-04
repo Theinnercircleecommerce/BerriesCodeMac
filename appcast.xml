@@ -3,6 +3,25 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.2.12</title>
+      <description><![CDATA[
+        <h2>What's new in 1.2.12</h2>
+        <ul>
+          <li><b>Fix: scroll freeze permanently gone</b> — replaced the markdown parser with a custom fast renderer that runs synchronously (no background threads, no re-renders). Switched from LazyVStack to VStack so scroll heights are always exact.</li>
+          <li><b>Fix: old chats now reliably open at the bottom</b> — waits for layout to settle before scrolling, so you always land on the newest message.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 04 Jul 2026 17:05:00 +0000</pubDate>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>1.2.12</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.2.12/BerriesCode-1.2.12.zip"
+        sparkle:edSignature="CK+UIDEypF2orF0aHFcxQG0xhNecPJEqrgGMJBSTCrx71BwWf5xG9HiaKh2SFa1my723YHrCX9NuSTzy3fQ9BQ=="
+        length="5571858"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.2.11</title>
       <description><![CDATA[
         <h2>What's new in 1.2.11</h2>
