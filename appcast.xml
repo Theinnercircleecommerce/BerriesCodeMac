@@ -3,6 +3,26 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.2.7</title>
+      <description><![CDATA[
+        <h2>What's new in 1.2.7</h2>
+        <ul>
+          <li><b>Fix: long chats no longer freeze</b> — opening an old chat with hundreds of messages is now instant. Only the last 150 messages load on open; a "Show earlier messages" button reveals the rest on demand.</li>
+          <li><b>Faster scrolling</b> — the chat feed does far less work while you scroll through a long conversation.</li>
+          <li><b>Typing no longer slows down big chats</b> — keystrokes in the input box no longer re-render the entire message feed.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 04 Jul 2026 12:52:00 +0000</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>1.2.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.2.7/BerriesCode-1.2.7.zip"
+        sparkle:edSignature="0bkooM1mTrDFUlZkk8Y77Gohu4lPjlT1ThWmqld6bVXF26KoTyG0gRekmoOgSsioAEzLfCa686dN6cQsf+2nBQ=="
+        length="5583658"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.2.6</title>
       <description><![CDATA[
         <h2>What's new in 1.2.6</h2>
