@@ -3,6 +3,27 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.2.13</title>
+      <description><![CDATA[
+        <h2>What's new in 1.2.13</h2>
+        <ul>
+          <li><b>Chats keep working when you switch away</b> — a running task no longer looks abandoned when you hop to another chat. Come back and it's still live: streaming text, the working animation, and the red stop button, right where you left them.</li>
+          <li><b>Pulsing dot in the sidebar</b> — any conversation still working in the background shows a small pulsing yellow dot, so you always know something is cooking.</li>
+          <li><b>Done notifications always arrive</b> — you now get the finished notification even if you switched to another chat mid-task.</li>
+          <li>Deleting a conversation now also stops any task it was still running.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 04 Jul 2026 17:21:00 +0000</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>1.2.13</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.2.13/BerriesCode-1.2.13.zip"
+        sparkle:edSignature="TNEGzw8IPOY+ueq9GjzyTW/pHi8140jIQNduiQt5e32CGJG9T8CuIWwq/qkh37r1RWFy1yccsWsfYUzAdxx5Cw=="
+        length="5578869"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.2.12</title>
       <description><![CDATA[
         <h2>What's new in 1.2.12</h2>
