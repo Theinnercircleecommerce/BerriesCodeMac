@@ -3,6 +3,24 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.2.15</title>
+      <description><![CDATA[
+        <h2>What's new in 1.2.15</h2>
+        <ul>
+          <li><b>Fix: the working dot no longer bounces</b> — the little pulsing dot next to "Conjuring…", "Working…" etc. could start bouncing up and down like a ball, especially with two projects working at the same time. Its pulse animation was accidentally grabbing onto layout movement; it's now locked to fading only. Same fix for the yellow dot in the sidebar.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 06 Jul 2026 11:15:36 +0000</pubDate>
+      <sparkle:version>20</sparkle:version>
+      <sparkle:shortVersionString>1.2.15</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.2.15/BerriesCode-1.2.15.zip"
+        sparkle:edSignature="GN0Ny5d+6y0hWx268axXylOpT8fqIpLVOe32eOUNTrayEyKVe2P9CiRZDGm8lywwshbBVNv8cZ78N9I2EHRaDA=="
+        length="5579503"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.2.14</title>
       <description><![CDATA[
         <h2>What's new in 1.2.14</h2>
