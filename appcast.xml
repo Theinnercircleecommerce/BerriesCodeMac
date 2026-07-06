@@ -3,6 +3,26 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.2.17</title>
+      <description><![CDATA[
+        <h2>What's new in 1.2.17</h2>
+        <ul>
+          <li><b>Subagents you can actually read</b> — click any agent in the drawer to open a full view with its task, complete live activity, and final result. Text is selectable, and it works side by side with the chat.</li>
+          <li><b>Subagent results land in the chat</b> — when an agent finishes, its result appears as a clearly marked "Subagent result" card, and the lead agent gets it with your next message.</li>
+          <li><b>No more lost results</b> — the final answer of every subagent is now captured instead of being thrown away, and activity lines are no longer cut off.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 06 Jul 2026 17:15:00 +0000</pubDate>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>1.2.17</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.2.17/BerriesCode-1.2.17.zip"
+        sparkle:edSignature="AmNHazGAAOPSJchdo4Cd22aAvtKx318fYfuy9X9SAYWnGeL/V9A8nfxzpSVUHN8sl2KsVz5QDKMP65TYSycZBg=="
+        length="5620532"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.2.16</title>
       <description><![CDATA[
         <h2>What's new in 1.2.16</h2>
