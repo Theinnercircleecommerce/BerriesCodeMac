@@ -3,6 +3,24 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.2.16</title>
+      <description><![CDATA[
+        <h2>What's new in 1.2.16</h2>
+        <ul>
+          <li><b>Each chat remembers its own model</b> — picking a model in one chat no longer changes it in your other chats. Every conversation keeps its own choice (also across app restarts); new chats simply start on the model you used last.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 06 Jul 2026 15:30:03 +0000</pubDate>
+      <sparkle:version>21</sparkle:version>
+      <sparkle:shortVersionString>1.2.16</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.2.16/BerriesCode-1.2.16.zip"
+        sparkle:edSignature="LmBTbXG8ZTHSJKfyTweO9h4TsILRpjGlYxGaiXuKSnRnfna3u11mx8u9ue5CONoY0N9n9BMiYfE/Fg3Cw+yIDQ=="
+        length="5581055"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.2.15</title>
       <description><![CDATA[
         <h2>What's new in 1.2.15</h2>
