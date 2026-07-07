@@ -3,6 +3,26 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.3.0</title>
+      <description><![CDATA[
+        <h2>What's new in 1.3.0</h2>
+        <ul>
+          <li><b>Open multiple project folders at once</b> — opening a folder in the sidebar no longer closes the others. Each open folder shows its own chats, and closing a folder just tidies the drawer without switching your active project.</li>
+          <li><b>Tidy chat lists</b> — each folder shows its 5 most recent chats. If there are more, a subtle "See all (N)" row expands the full list in place, with "Show less" to tuck it back away. A chat that's still running always stays visible.</li>
+          <li><b>The drawer remembers itself</b> — which folders you had open is restored when you relaunch the app.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Tue, 07 Jul 2026 13:01:54 +0000</pubDate>
+      <sparkle:version>23</sparkle:version>
+      <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.3.0/BerriesCode-1.3.0.zip"
+        sparkle:edSignature="tz6PrV7DeFe8oL9IGEbLY89wTY4xT890eB7sipyuW07ok3Rr9xE6Y8Guqx5mdUj5SLZnqWrvox6CMTo+WQwICQ=="
+        length="5631334"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.2.17</title>
       <description><![CDATA[
         <h2>What's new in 1.2.17</h2>
