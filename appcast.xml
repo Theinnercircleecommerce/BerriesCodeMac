@@ -3,6 +3,24 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.3.1</title>
+      <description><![CDATA[
+        <h2>What's new in 1.3.1</h2>
+        <ul>
+          <li><b>Fix: chats no longer glitch through the folder name</b> — when you open or close a folder in the sidebar, its chats used to slide up over the folder title for a moment. They now fold neatly away behind the folder header.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Tue, 07 Jul 2026 14:35:00 +0000</pubDate>
+      <sparkle:version>24</sparkle:version>
+      <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.3.1/BerriesCode-1.3.1.zip"
+        sparkle:edSignature="ex55LvivhcmOgh19F7XH1lg9P/gSQypNoSPUshZ2a6v/9MPAGnOb0+3+d/FiHKkui/XoB70SZmhFGl8MWH8qCw=="
+        length="5631978"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.3.0</title>
       <description><![CDATA[
         <h2>What's new in 1.3.0</h2>
