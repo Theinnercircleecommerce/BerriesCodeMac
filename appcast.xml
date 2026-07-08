@@ -3,6 +3,24 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.3.5</title>
+      <description><![CDATA[
+        <h2>What's new in 1.3.5</h2>
+        <ul>
+          <li><b>Conversations section placed like Antigravity</b> — it now flows directly below your projects list (not stuck at the very bottom), and the header has a <b>+</b> button to start a new conversation right from the section.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 08 Jul 2026 12:31:45 +0000</pubDate>
+      <sparkle:version>28</sparkle:version>
+      <sparkle:shortVersionString>1.3.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.3.5/BerriesCode-1.3.5.zip"
+        sparkle:edSignature="rq5uYUT74geVopNua3OA79Bxq9+I2m+dOpKGpAz6/Hzp/mORQTwEPokbIGQmZ9rux0u+SlCoLAd5WAMHQUybCA=="
+        length="5659853"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.3.4</title>
       <description><![CDATA[
         <h2>What's new in 1.3.4</h2>
