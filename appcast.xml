@@ -3,6 +3,24 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.3.3</title>
+      <description><![CDATA[
+        <h2>What's new in 1.3.3</h2>
+        <ul>
+          <li><b>Start a conversation without a project</b> — a new <b>New Conversation</b> button at the top of the sidebar lets you chat with Claude straight away, no folder required. These projectless chats collect in their own <b>Conversations</b> list lower in the sidebar, separate from your projects.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 08 Jul 2026 12:04:56 +0000</pubDate>
+      <sparkle:version>26</sparkle:version>
+      <sparkle:shortVersionString>1.3.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.3.3/BerriesCode-1.3.3.zip"
+        sparkle:edSignature="vVRRyGzU2r1kd7+aJjClO0o0vDY6ERypTwN0YJkoBrYp4mJyT1V4xvz4bA5ZP4mWnax0oNgkhGdRs5oHkKjCBw=="
+        length="5658345"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.3.2</title>
       <description><![CDATA[
         <h2>What's new in 1.3.2</h2>
