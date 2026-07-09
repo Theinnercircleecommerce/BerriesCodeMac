@@ -3,6 +3,24 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.3.8</title>
+      <description><![CDATA[
+        <h2>What's new in 1.3.8</h2>
+        <ul>
+          <li><b>The text you type scales too</b> — the "Text Size" setting used to only enlarge the messages you read, leaving the input box tiny. Now the box where you type grows with the same setting, so you can actually read what you're writing.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <sparkle:version>31</sparkle:version>
+      <sparkle:shortVersionString>1.3.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.3.8/BerriesCode-1.3.8.zip"
+        sparkle:edSignature="Bdp2cebKvtp5Jk6bZ0mFJYDWgDL9FLVP0FkaQvtNMosDAxqdE7jPVdBfjNbaGX5jb3+kZtn4zHb2shrPHiLyDQ=="
+        length="5670468"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.3.7</title>
       <description><![CDATA[
         <h2>What's new in 1.3.7</h2>
