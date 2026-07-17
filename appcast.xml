@@ -3,6 +3,24 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.3.11</title>
+      <description><![CDATA[
+        <h2>What's new in 1.3.11</h2>
+        <ul>
+          <li><b>Chat text now truly matches your theme</b> — reading text in dark themes no longer looks pure white. It uses the same softer tone as the sidebar (in Monokai, that warm off-white), so long reads are easier on the eyes. Bold text and headings stay bright for emphasis.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      <sparkle:version>34</sparkle:version>
+      <sparkle:shortVersionString>1.3.11</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.3.11/BerriesCode-1.3.11.zip"
+        sparkle:edSignature="DU/6izKrMV6Lt3wnu+xaf5Ra31QHzwD6OVCY7zjD3uCaD0heDwkzOXlrEKlAxZffnauNKnEGKe6jNjFs5E4FDA=="
+        length="6026450"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.3.10</title>
       <description><![CDATA[
         <h2>What's new in 1.3.10</h2>
