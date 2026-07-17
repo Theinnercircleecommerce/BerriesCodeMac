@@ -3,22 +3,22 @@
   <channel>
     <title>Berries Code</title>
     <item>
-      <title>Version 1.3.9</title>
+      <title>Version 1.3.10</title>
       <description><![CDATA[
-        <h2>What's new in 1.3.9</h2>
+        <h2>What's new in 1.3.10</h2>
         <ul>
-          <li><b>Fix: chats no longer die mid-session with a false "Claude is not installed" error</b> — the app leaked a little plumbing (open pipes) with every message, and after a long session macOS refused to start new Claude runs. Pipes are now cleaned up after each message, and the app asks macOS for more room at startup.</li>
-          <li><b>Honest error messages</b> — if launching Claude ever fails again, the app now shows the real reason instead of always claiming Claude isn't installed. Errors from Claude itself are shown in the chat too, instead of silently vanishing.</li>
+          <li><b>Chat text follows your theme now</b> — switching between light and dark themes used to leave old messages stuck in their previous color (dark-on-dark or white-on-light). Messages now recolor instantly when you change themes.</li>
+          <li><b>Easier on the eyes in dark mode</b> — regular message text is slightly softened on dark themes so it doesn't glare; bold text and headings stay bright so they stand out.</li>
         </ul>
       ]]></description>
-      <pubDate>Wed, 15 Jul 2026 15:00:00 +0000</pubDate>
-      <sparkle:version>32</sparkle:version>
-      <sparkle:shortVersionString>1.3.9</sparkle:shortVersionString>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      <sparkle:version>33</sparkle:version>
+      <sparkle:shortVersionString>1.3.10</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.3.9/BerriesCode-1.3.9.zip"
-        sparkle:edSignature="SSBgjNYFyIWrzjz8c+A/3TjT4we3f5JLgrpGXu33N4/NgSJCMEf8ZjQrEe82UJglwIWvlILX4Pd8KIFfDUrhAw=="
-        length="5673345"
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.3.10/BerriesCode-1.3.10.zip"
+        sparkle:edSignature="jp54p7p/Nnh+TrEGmJTjwZh0BqHalR7JKMU/R8dfGDPE0b9Bwen14F3vcUKm5rd+SxF3BqQT9oPGGh+wMVDGCA=="
+        length="6026134"
         type="application/octet-stream"/>
     </item>
     <item>
