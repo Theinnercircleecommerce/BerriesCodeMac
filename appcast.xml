@@ -3,21 +3,23 @@
   <channel>
     <title>Berries Code</title>
     <item>
-      <title>Version 1.3.11</title>
+      <title>Version 1.3.12</title>
       <description><![CDATA[
-        <h2>What's new in 1.3.11</h2>
+        <h2>What's new in 1.3.12</h2>
         <ul>
-          <li><b>Chat text now truly matches your theme</b> — reading text in dark themes no longer looks pure white. It uses the same softer tone as the sidebar (in Monokai, that warm off-white), so long reads are easier on the eyes. Bold text and headings stay bright for emphasis.</li>
+          <li><b>Attach any file type</b> — drag a .pdf, .swift, .zip, .env, or anything else onto the chat and it becomes an attachment chip. Previously only images worked.</li>
+          <li><b>Paste screenshots with Cmd+V</b> — take a screenshot to your clipboard (Cmd+Ctrl+Shift+4) then Cmd+V straight into the chat. No drag-and-drop required.</li>
+          <li><b>.env and hidden files are now visible</b> — the @ mention search and the + file menu now show dotfiles like .env and .gitignore. node_modules and .git are still hidden.</li>
         </ul>
       ]]></description>
       <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <sparkle:version>34</sparkle:version>
-      <sparkle:shortVersionString>1.3.11</sparkle:shortVersionString>
+      <sparkle:version>35</sparkle:version>
+      <sparkle:shortVersionString>1.3.12</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.3.11/BerriesCode-1.3.11.zip"
-        sparkle:edSignature="DU/6izKrMV6Lt3wnu+xaf5Ra31QHzwD6OVCY7zjD3uCaD0heDwkzOXlrEKlAxZffnauNKnEGKe6jNjFs5E4FDA=="
-        length="6026450"
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.3.12/BerriesCode-1.3.12.zip"
+        sparkle:edSignature="YpJDcwe/guvLanDbrinq6sQOaQ3bONkbayib43T3WKKPNydcxmWdvHh6kBUObeI1GcrmngIVd2fqpOxSMchDDg=="
+        length="6025114"
         type="application/octet-stream"/>
     </item>
     <item>
