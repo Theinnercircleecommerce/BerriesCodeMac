@@ -3,6 +3,26 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.4.0</title>
+      <description><![CDATA[
+        <h2>What's new in 1.4.0</h2>
+        <ul>
+          <li><b>File viewer & editor</b> — click the new panel icon in the toolbar to open your project's file tree. Click any file to read it. Edit and save with Cmd+S. Works for .env files, code, configs — anything text. Images show a preview. Right-click any file to attach it to the chat.</li>
+          <li><b>Attach large files and folders</b> — attached files no longer get pasted as raw text. The path is sent instead and Claude reads the file directly, so size limits are gone and you can attach folders too.</li>
+          <li><b>Smarter file search</b> — @ mentions and the + menu now use fuzzy matching (type "cvm" to find "ChatViewModel.swift"). Results are ranked by relevance, not just alphabetically.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      <sparkle:version>36</sparkle:version>
+      <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.4.0/BerriesCode-1.4.0.zip"
+        sparkle:edSignature="IpMvckIjXm5NufaihoLCx7nJ+9sT9F4+cKNvGO+Q1uHKWVnoD8SF8bw0IVbYVFwjixhUNvdYpJLmDxrGJbHwDA=="
+        length="6091696"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.3.12</title>
       <description><![CDATA[
         <h2>What's new in 1.3.12</h2>
