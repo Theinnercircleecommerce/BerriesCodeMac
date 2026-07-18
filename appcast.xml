@@ -3,6 +3,25 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.4.3</title>
+      <description><![CDATA[
+        <h2>What's new in 1.4.3</h2>
+        <ul>
+          <li><b>@ menu now shows its results</b> — the @-mention popup was collapsing to an empty box (a zero-height layout bug hid the whole list). It now renders your files, folders, conversations — and <b>Fable Planning Mode</b>.</li>
+          <li><b>@fable — Fable Planning Mode</b> — type <code>@</code> and pick <b>Fable Planning Mode</b>. It makes the model plan and reason the Fable way (front-load the spec, plan before acting, verify its own work, lead with the outcome). Built into the app, works in every project.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <sparkle:version>39</sparkle:version>
+      <sparkle:shortVersionString>1.4.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.4.3/BerriesCode-1.4.3.zip"
+        sparkle:edSignature="ijKg6JB815MzKIkYpXue3L4gXHnVbdqZbLdwTP/Opjbp3s1E5Y6OTZqKgZ/WwUE3XGVjEJfpFQEXZq0vXKuHBA=="
+        length="6112848"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.4.2</title>
       <description><![CDATA[
         <h2>What's new in 1.4.2</h2>
