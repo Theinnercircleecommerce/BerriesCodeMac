@@ -3,6 +3,26 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.5.0</title>
+      <description><![CDATA[
+        <h2>What's new in 1.5.0</h2>
+        <ul>
+          <li><b>OpenAI GPT-5.6 is here</b> — Berries Code now runs OpenAI's Codex models right alongside Claude. Pick <b>GPT-5.6 Sol</b>, <b>Terra</b>, or <b>Luna</b> from the model menu. Uses your ChatGPT sign-in — no API key needed.</li>
+          <li><b>Redesigned model picker</b> — the menu now groups <b>Claude</b> and <b>OpenAI Codex</b> clearly, with a provider badge on the chip so you always know which you're on. It closes when you click away, like it should.</li>
+          <li><b>Switch per chat</b> — each conversation remembers its model, and you can swap between Claude and Codex whenever you like.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <sparkle:version>40</sparkle:version>
+      <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.5.0/BerriesCode-1.5.0.zip"
+        sparkle:edSignature="MMD/RLYfEBDTuSqhEOv5SESeWeff3R0B6nurD1GtbQ6bLCS0SfWjr2J/xjULq17LiRzpDsze3vPV5244PvsMDw=="
+        length="6131085"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.4.3</title>
       <description><![CDATA[
         <h2>What's new in 1.4.3</h2>
