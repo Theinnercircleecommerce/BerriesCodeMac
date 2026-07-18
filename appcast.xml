@@ -3,6 +3,24 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.4.2</title>
+      <description><![CDATA[
+        <h2>What's new in 1.4.2</h2>
+        <ul>
+          <li><b>@fable — Fable Planning Mode</b> — type <code>@</code> and pick <b>Fable Planning Mode</b> at the top of the menu. It makes the model plan and reason the Fable way (front-load the spec, plan before acting, verify its own work, lead with the outcome) on whatever model you're running. Built into the app — no file needed, works in every project.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <sparkle:version>38</sparkle:version>
+      <sparkle:shortVersionString>1.4.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.4.2/BerriesCode-1.4.2.zip"
+        sparkle:edSignature="VeKpuPITVhTLmGlKGTiZqNLXwCwL0pW4+pyU0BJ50rtSRdcb3AasXLyT7XZ1xEU/tlmbeQze12kzL3vT5535Dg=="
+        length="6114303"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.4.1</title>
       <description><![CDATA[
         <h2>What's new in 1.4.1</h2>
