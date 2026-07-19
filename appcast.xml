@@ -3,6 +3,25 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.5.8</title>
+      <description><![CDATA[
+        <h2>What's new in 1.5.8</h2>
+        <ul>
+          <li><b>No more freezing</b> — the app stays smooth during Building mode and when switching into long chats. Streamed replies are now batched instead of re-rendered on every chunk, and long chats open showing just the recent messages (older ones load on demand).</li>
+          <li><b>Building mode delegates faster</b> — the planner now hands work to the worker immediately instead of investigating and trying to implement itself (which was the runaway behavior that caused the freeze and the occasional stall).</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <sparkle:version>48</sparkle:version>
+      <sparkle:shortVersionString>1.5.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.5.8/BerriesCode-1.5.8.zip"
+        sparkle:edSignature="7i6G7YhT96fohTIZeD6Noj7O44oTQLKVsXL7H/Vr2EgHZjH8q+5cYvwy8xgBDtokmDl0fF94F9pC7mo28ecgCA=="
+        length="6266603"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.5.7</title>
       <description><![CDATA[
         <h2>What's new in 1.5.7</h2>
