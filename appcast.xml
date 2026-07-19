@@ -3,6 +3,25 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.5.4</title>
+      <description><![CDATA[
+        <h2>What's new in 1.5.4</h2>
+        <ul>
+          <li><b>Edit &amp; rewind messages</b> — hover any message you sent and click the pencil to rewind the chat back to that point. The message pops back into the box so you can fix it and resend, without retyping. On Claude, the model actually forgets the removed turns.</li>
+          <li><b>Themed confirmation popup</b> — the edit confirmation now matches your color theme instead of the plain system dialog.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <sparkle:version>44</sparkle:version>
+      <sparkle:shortVersionString>1.5.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.5.4/BerriesCode-1.5.4.zip"
+        sparkle:edSignature="zu4rxAL6Pd3SdrBgSW1ZmmlKrnA4zxNhT/Bwk2HzbjyIMAnPSfCS4XNsBZRkTTcIdJBzhtaR5tq/N5qXCT9lCQ=="
+        length="6201521"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.5.3</title>
       <description><![CDATA[
         <h2>What's new in 1.5.3</h2>
