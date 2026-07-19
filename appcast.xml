@@ -3,6 +3,26 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.5.3</title>
+      <description><![CDATA[
+        <h2>What's new in 1.5.3</h2>
+        <ul>
+          <li><b>Long pastes become a file</b> — paste a big block of text (30+ lines) and it drops in as a .txt attachment instead of filling the composer, so it isn't re-sent every turn. Saves tokens, just like Claude on the web.</li>
+          <li><b>Image thumbnails in attachments</b> — attached images now show a real preview so you can confirm you added the right one.</li>
+          <li><b>Consistent attachment tiles</b> — every attached file now shows as the same clean tile.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <sparkle:version>43</sparkle:version>
+      <sparkle:shortVersionString>1.5.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.5.3/BerriesCode-1.5.3.zip"
+        sparkle:edSignature="euNvZ+nSQIAXizV/bjgNLEUKH4JYIQNmJ8tIDhS/D0ceocJgZ5PbfW9zzYbHojxPml/xDag9oodnvA0CjST+Dg=="
+        length="6177868"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.5.2</title>
       <description><![CDATA[
         <h2>What's new in 1.5.2</h2>
