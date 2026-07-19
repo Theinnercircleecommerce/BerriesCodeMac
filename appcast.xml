@@ -3,6 +3,24 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.5.6</title>
+      <description><![CDATA[
+        <h2>What's new in 1.5.6</h2>
+        <ul>
+          <li><b>Building mode fix</b> — the planner now actually delegates instead of trying (and failing) to write files itself. It runs with the Write/Edit/Bash tools removed, so its only path is to hand the work to a Sonnet worker, which builds and verifies. Verified end-to-end.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <sparkle:version>46</sparkle:version>
+      <sparkle:shortVersionString>1.5.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.5.6/BerriesCode-1.5.6.zip"
+        sparkle:edSignature="oaPIx//1UfwIjWw3E7kE2+rRtfKwUiUSRYpFK0yMV0b62ifzJ15knRdc/SzfZ9JpH3Engn6lGQb0VLCpzQNqBA=="
+        length="6262388"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.5.5</title>
       <description><![CDATA[
         <h2>What's new in 1.5.5</h2>
