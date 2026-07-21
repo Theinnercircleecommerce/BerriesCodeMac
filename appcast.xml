@@ -3,6 +3,24 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.3</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.3</h2>
+        <ul>
+          <li><b>New: manually mark a chat as Unread</b> — right-click any chat in the sidebar (or use the ••• menu) and choose <b>Mark as Unread</b> to bold its title as a "come back to this later" reminder. Choose <b>Mark as Read</b> to clear it. Works alongside the automatic bold you get when the AI answers a chat you weren't watching.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Tue, 21 Jul 2026 14:30:00 +0000</pubDate>
+      <sparkle:version>53</sparkle:version>
+      <sparkle:shortVersionString>1.6.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.3/BerriesCode-1.6.3.zip"
+        sparkle:edSignature="M2B7Psecjxr2IUvh7HU3/yiQ9P9KFVLjaA4A/UcBrGh+mq98+CzZ3XF2lujr0JTPoSo1mIQHkLv/6wTszDzLCA=="
+        length="6301136"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.2</title>
       <description><![CDATA[
         <h2>What's new in 1.6.2</h2>
