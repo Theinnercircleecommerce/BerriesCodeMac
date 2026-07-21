@@ -3,6 +3,24 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.6</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.6</h2>
+        <ul>
+          <li><b>Long chat warning is now a small pill</b> — replaced the full-width bar with a compact rounded pill above the composer. Shows the token count and a short label; dismiss with ✕ and it stays gone unless the chat grows into the next tier.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 21 Jul 2026 22:00:00 +0000</pubDate>
+      <sparkle:version>56</sparkle:version>
+      <sparkle:shortVersionString>1.6.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.6/BerriesCode-1.6.6.zip"
+        sparkle:edSignature="R0SdjooY4/HKBfR+qlOCYrB3XvbfN0F43ZLeOyrVgGnjdXFoHH+fC+sgbcCQQESnGwlx5DL2Eih/7qaTNAFvCA=="
+        length="6309075"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.5</title>
       <description><![CDATA[
         <h2>What's new in 1.6.5</h2>
