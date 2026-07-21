@@ -3,6 +3,24 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.7</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.7</h2>
+        <ul>
+          <li><b>Token warning persists across chat switches</b> — the app now remembers the last reported token count for each chat, so the warning pill reappears immediately when you return to a long chat instead of disappearing until your next send.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 21 Jul 2026 23:00:00 +0000</pubDate>
+      <sparkle:version>57</sparkle:version>
+      <sparkle:shortVersionString>1.6.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.7/BerriesCode-1.6.7.zip"
+        sparkle:edSignature="JaGVEBc064Txd/HbreXlWlymxrpY7GNxUUQCwIzQZ1DY9FG91tPw4+AvoUmB/K4VVm77gciinaPEsb/nOiQ8Cg=="
+        length="6309373"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.6</title>
       <description><![CDATA[
         <h2>What's new in 1.6.6</h2>
