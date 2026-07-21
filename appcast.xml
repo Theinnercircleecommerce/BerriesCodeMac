@@ -3,6 +3,24 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.2</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.2</h2>
+        <ul>
+          <li><b>New: unread "answered" indicator in the sidebar</b> — when the AI finishes replying in a chat you're not currently viewing, that chat's title in the sidebar goes <b>bold</b> so you can see at a glance which chats are ready for your next task. Open the chat and it goes back to normal. The bold survives an app relaunch. The pulsing dot still means "working"; bold means "answered and waiting."</li>
+        </ul>
+      ]]></description>
+      <pubDate>Tue, 21 Jul 2026 14:00:00 +0000</pubDate>
+      <sparkle:version>52</sparkle:version>
+      <sparkle:shortVersionString>1.6.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.2/BerriesCode-1.6.2.zip"
+        sparkle:edSignature="rWLuzOdkiGVU66ZNYL2y4AUAnxD0Mgmow8NYkGyOzS1J5reK/ntVR5sMEkoE58mb3txGsKiW+0xKlDjOcA9FAw=="
+        length="6300235"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.1</title>
       <description><![CDATA[
         <h2>What's new in 1.6.1</h2>
