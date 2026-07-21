@@ -3,6 +3,25 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.1</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.1</h2>
+        <ul>
+          <li><b>Fix: messages no longer disappear</b> — starting a chat in a project and switching to another chat before it replied could make your question vanish. The chat gets tracked the instant it starts, shows in the sidebar right away, and stays put when you switch around.</li>
+          <li><b>Removed the top-left "New Conversation" button</b> — you start chats from your projects; the unused button is gone. Projectless conversations still live under the "Conversations" section.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Tue, 21 Jul 2026 11:24:30 +0000</pubDate>
+      <sparkle:version>51</sparkle:version>
+      <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.1/BerriesCode-1.6.1.zip"
+        sparkle:edSignature="Uto/athDHQC9m2KyIH6kLD4RHZ7ex00SIH/F75tlIuOWHlrBtaX30ArfICwrRPVcmdpzzwDoVpFJSYciTdK0CA=="
+        length="6298335"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.0</title>
       <description><![CDATA[
         <h2>What's new in 1.6.0</h2>
