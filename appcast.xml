@@ -3,6 +3,24 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.4</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.4</h2>
+        <ul>
+          <li><b>New: long chat warning</b> — when a chat grows large, a banner appears above the composer explaining that the CLI re-sends your entire conversation history every turn, which burns through your 5-hour usage window faster. Amber at ~100k tokens, red at ~170k. Dismiss it with ✕; it comes back if the chat grows into the next tier.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 21 Jul 2026 20:00:00 +0000</pubDate>
+      <sparkle:version>54</sparkle:version>
+      <sparkle:shortVersionString>1.6.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.4/BerriesCode-1.6.4.zip"
+        sparkle:edSignature="OeSYfOokrtchpkYrCZsRH/ZEnVmqlnmi2zwXAfHbrRvUYzmQv9Hrmg8547c2oqq9YrHnk3vnG+4X42tQ3ZXBCQ=="
+        length="6310154"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.3</title>
       <description><![CDATA[
         <h2>What's new in 1.6.3</h2>
