@@ -3,6 +3,24 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.8</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.8</h2>
+        <ul>
+          <li><b>Fix: token warning pill alignment</b> — the warning pill now sits directly above the chat composer instead of being pinned to the far-left window edge.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 21 Jul 2026 23:30:00 +0000</pubDate>
+      <sparkle:version>58</sparkle:version>
+      <sparkle:shortVersionString>1.6.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.8/BerriesCode-1.6.8.zip"
+        sparkle:edSignature="YWcwvGvF23m/vJncB8P889GCrJTZodySePBWotbcvIdCWeHCfg19M8J2ipfEMFlj3VX3l4tvewMhd0YX+wl0DQ=="
+        length="6309728"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.7</title>
       <description><![CDATA[
         <h2>What's new in 1.6.7</h2>
