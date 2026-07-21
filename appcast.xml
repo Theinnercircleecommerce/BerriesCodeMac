@@ -3,6 +3,24 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.5</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.5</h2>
+        <ul>
+          <li><b>Long chat warning is now permanent</b> — the amber/red banner above the composer stays visible for the life of the chat instead of being dismissable. Once a chat is long, you always know.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 21 Jul 2026 21:00:00 +0000</pubDate>
+      <sparkle:version>55</sparkle:version>
+      <sparkle:shortVersionString>1.6.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.5/BerriesCode-1.6.5.zip"
+        sparkle:edSignature="ZQf2clBQdU9vZFp/W9gc+GwoKhqpYG0WOazsN7WvwNj5b+gA8an7iiJNB86F7Uvgp6SwwDjDFc+ZdoPlwrjHAw=="
+        length="6308689"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.4</title>
       <description><![CDATA[
         <h2>What's new in 1.6.4</h2>
