@@ -3,6 +3,26 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.0</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.0</h2>
+        <ul>
+          <li><b>@fable is now session-wide</b> — selecting @fable used to inject the planning method into just one message. It now arms a "Fable plan" mode for the whole session, so every reply thinks like Fable 5 — not just the first one. A pill appears in the composer bar while it's on; tap to turn it off.</li>
+          <li><b>Upgraded planning rules</b> — the @fable method now covers premise-checking before building, anti-thrashing (two failed attempts = stop and rethink), re-anchoring every turn so long sessions don't drift, and evidence-required success claims. 11 rules instead of 7.</li>
+          <li><b>Fix: @fable prompt no longer shows in chat balloons</b> — scrolling up in a chat that used @fable used to reveal the entire planning prompt inside your message bubble. It's now completely hidden, both live and on reload.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <sparkle:version>50</sparkle:version>
+      <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.0/BerriesCode-1.6.0.zip"
+        sparkle:edSignature="K8/1ZEbmrHGMJQ1jAyGY477v8cI7YIXzYMkXHsM2ycym3ItcxGZl+a1EyyHtLsBSr/gMisF5VW2joxEKYNPjCw=="
+        length="12604333"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.5.9</title>
       <description><![CDATA[
         <h2>What's new in 1.5.9</h2>
