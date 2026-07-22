@@ -3,6 +3,24 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.11</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.11</h2>
+        <ul>
+          <li><b>Long-chat warning tuned for quality</b> — the nudge is now an answer-sharpness gauge, not a spend meter. Amber appears around ~70% full and red around ~85%, early enough to start a fresh chat before model recall slips or the CLI compacts older turns. Wording updated to match ("a fresh chat keeps answers sharp").</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 22 Jul 2026 12:40:00 +0000</pubDate>
+      <sparkle:version>61</sparkle:version>
+      <sparkle:shortVersionString>1.6.11</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.11/BerriesCode-1.6.11.zip"
+        sparkle:edSignature="JRT+xNRhj7f5Cnjt6sXn1Ms30KUYfpti8Ll01ugxia9f/pVjNY6BKVSPCsI5KSIsWd7LyZGA7Uv2PiPcTIkoCQ=="
+        length="6310070"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.10</title>
       <description><![CDATA[
         <h2>What's new in 1.6.10</h2>
