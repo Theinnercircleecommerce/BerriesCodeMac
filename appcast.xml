@@ -3,6 +3,24 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.9</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.9</h2>
+        <ul>
+          <li><b>Fix: honest chat token count</b> — the long-chat warning now measures the chat's real context size (like the terminal's counter) instead of the whole turn's summed-up cost. Chats no longer warn "near limit" after a single message.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 22 Jul 2026 09:21:06 +0000</pubDate>
+      <sparkle:version>59</sparkle:version>
+      <sparkle:shortVersionString>1.6.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.9/BerriesCode-1.6.9.zip"
+        sparkle:edSignature="HCmDI8ZvxKO1TiiiO0TU5ZYgha/jtPExLCcocniHvZH6rfeMfCmMC55eSH+ehtDox0qG8ZAk0Btceqay8uS3DQ=="
+        length="6310081"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.8</title>
       <description><![CDATA[
         <h2>What's new in 1.6.8</h2>
