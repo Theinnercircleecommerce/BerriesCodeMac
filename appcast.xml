@@ -3,6 +3,24 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.10</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.10</h2>
+        <ul>
+          <li><b>Long-chat warning tuned</b> — the "getting long" nudge now waits until a chat is genuinely near the context ceiling (~75% / ~92% full) instead of firing at half-full, and the wording no longer sounds like a billing alert. A normal deep-work chat stays quiet.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 22 Jul 2026 10:35:00 +0000</pubDate>
+      <sparkle:version>60</sparkle:version>
+      <sparkle:shortVersionString>1.6.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.10/BerriesCode-1.6.10.zip"
+        sparkle:edSignature="LsB6J6itu9jOS4/chlEpEwkWjtfM9yHrwjTwmzcpc4Qx2NcZaL2ioql7UzrBQrnttsPZJ7Hvgpr6h7MMkr3RDA=="
+        length="6310067"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.9</title>
       <description><![CDATA[
         <h2>What's new in 1.6.9</h2>
