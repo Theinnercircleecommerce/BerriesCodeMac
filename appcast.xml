@@ -3,6 +3,25 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.13</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.13</h2>
+        <ul>
+          <li><b>Web access now asks you first</b> — when Claude wants to look at a page, a prompt appears with the domain and you choose <b>Allow once</b>, <b>Allow for this chat</b>, or <b>Deny</b>. Previously the app had no approval prompt at all, so web requests were silently blocked and Claude would tell you to "click Allow" on something that didn't exist.</li>
+          <li><b>Permission mode is honoured everywhere</b> — Full Machine and Turbo were being dropped in Builder and @fable sessions, quietly forcing those chats back to default mode. They now apply in every mode.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sat, 25 Jul 2026 16:30:00 +0000</pubDate>
+      <sparkle:version>63</sparkle:version>
+      <sparkle:shortVersionString>1.6.13</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.13/BerriesCode-1.6.13.zip"
+        sparkle:edSignature="IxAtTFWnJIuqUUrp53kioZ39b5bqRyKlOmVmo5F8gaYS2xi5ZbkmIOWCdTJMTr+HKFLL8wwYEtG4eqNZSoBbDA=="
+        length="6339875"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.12</title>
       <description><![CDATA[
         <h2>What's new in 1.6.12</h2>
