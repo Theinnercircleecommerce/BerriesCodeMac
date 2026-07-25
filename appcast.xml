@@ -3,6 +3,25 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.15</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.15</h2>
+        <ul>
+          <li><b>Plugins menu shows every installed plugin</b> — it previously listed only Anthropic's official catalog, so anything installed from another marketplace (like i-have-adhd) stayed invisible even while it was running.</li>
+          <li><b>Uninstall works for third-party plugins</b> — the menu now passes the full <code>name@marketplace</code> id to the CLI.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sat, 25 Jul 2026 18:10:00 +0000</pubDate>
+      <sparkle:version>65</sparkle:version>
+      <sparkle:shortVersionString>1.6.15</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.15/BerriesCode-1.6.15.zip"
+        sparkle:edSignature="zrC9mHMVn4cRMoxRFkWYp2yF3RaL7TPDMlhqF6+1pvvOnlEAR2ya/Kj/SDDC0HeRgQ7aovT447gEEr0CVYPtDg=="
+        length="6344537"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.14</title>
       <description><![CDATA[
         <h2>What's new in 1.6.14</h2>
