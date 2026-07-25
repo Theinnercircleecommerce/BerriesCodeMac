@@ -3,6 +3,24 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.12</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.12</h2>
+        <ul>
+          <li><b>Claude Opus 5</b> — the Opus tier is now Opus 5 (released July 24, 2026), replacing Opus 4.8. Same price, newer and more capable. Your existing Opus selection carries over automatically.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sat, 25 Jul 2026 13:00:00 +0000</pubDate>
+      <sparkle:version>62</sparkle:version>
+      <sparkle:shortVersionString>1.6.12</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.12/BerriesCode-1.6.12.zip"
+        sparkle:edSignature="YCx2vvwYyPJz92pk3Ldoys6sqwCSIOYDF6GWu6MeMvHZczf1eyqD0eN+KmLJxGy2oEBZ/qAgXo2yYi+S1MWECQ=="
+        length="6310504"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.11</title>
       <description><![CDATA[
         <h2>What's new in 1.6.11</h2>
