@@ -3,6 +3,25 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.14</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.14</h2>
+        <ul>
+          <li><b>The web approval prompt now actually appears</b> — it was only registered in default permission mode, but every project was set to Full Machine, so it could never fire. It now runs in every mode.</li>
+          <li><b>Covers real page viewing</b> — approval also applies to Bash commands that reach the web (puppeteer, curl), which is how pages are actually rendered and screenshotted. Ordinary Bash commands are untouched.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sat, 25 Jul 2026 17:15:00 +0000</pubDate>
+      <sparkle:version>64</sparkle:version>
+      <sparkle:shortVersionString>1.6.14</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.14/BerriesCode-1.6.14.zip"
+        sparkle:edSignature="s5DPNqXO1MGHH/IMOb9vFCc84pOWpW0zk4HmCwWHuKoHpKw84gycE+H0L5FET0hF1qEdwJezWGRBfZ5SKDArCw=="
+        length="6340051"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.13</title>
       <description><![CDATA[
         <h2>What's new in 1.6.13</h2>
