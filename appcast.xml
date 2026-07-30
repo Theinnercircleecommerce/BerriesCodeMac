@@ -3,6 +3,25 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.17</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.17</h2>
+        <ul>
+          <li><b>Your chats now follow the project</b> — changing a project's location in Settings moves its conversations (and its security preset) with it, instead of leaving them behind.</li>
+          <li><b>Projects no longer vanish</b> — if you rename or move a project's folder in Finder, the project stays in the sidebar with a warning icon instead of silently disappearing. Click Change… in Settings to point it at the new folder and everything comes back.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 30 Jul 2026 19:30:00 +0000</pubDate>
+      <sparkle:version>67</sparkle:version>
+      <sparkle:shortVersionString>1.6.17</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.17/BerriesCode-1.6.17.zip"
+        sparkle:edSignature="HC9//7yizgQUABzLBusHQq3qbA6ZXqWi8GbvcENBhVq4mTJP2sEEoMGMP3SLhPVCLSBAKvrh4+ZQu9h5APM+Bg=="
+        length="6363590"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.16</title>
       <description><![CDATA[
         <h2>What's new in 1.6.16</h2>
