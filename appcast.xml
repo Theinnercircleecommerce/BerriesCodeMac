@@ -3,6 +3,24 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.19</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.19</h2>
+        <ul>
+          <li><b>Image-heavy chats no longer freeze</b> — attached photos were being decoded at full resolution on the main thread every time their thumbnail was drawn. A 24-megapixel iPhone photo cost about 2.6 seconds per draw, and scrolling re-triggered it. Thumbnails are now built at thumbnail size, off the main thread, and cached.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 31 Jul 2026 13:15:00 +0000</pubDate>
+      <sparkle:version>69</sparkle:version>
+      <sparkle:shortVersionString>1.6.19</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.19/BerriesCode-1.6.19.zip"
+        sparkle:edSignature="1orlt+wGTKAPMydRokU6Zk+lC/Zn4rZgrNAbuR+fC4bquYoGYseaa4VZb4eMz0uVtCog/qv5Vjz0OG9f/jA2AQ=="
+        length="6364652"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.18</title>
       <description><![CDATA[
         <h2>What's new in 1.6.18</h2>
