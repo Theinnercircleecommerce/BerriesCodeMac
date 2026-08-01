@@ -3,6 +3,25 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.20</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.20</h2>
+        <ul>
+          <li><b>Chat no longer goes blank</b> after an answer finishes, and chats open at the bottom again instead of midway. These were regressions from 1.6.18's lazy message feed — the reliable layout is back, while keeping 1.6.19's image fix so opens stay fast.</li>
+          <li><b>"Show earlier messages"</b> is back for very long chats.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 01 Aug 2026 16:20:00 +0000</pubDate>
+      <sparkle:version>70</sparkle:version>
+      <sparkle:shortVersionString>1.6.20</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.20/BerriesCode-1.6.20.zip"
+        sparkle:edSignature="O+VdQoqzk6jmD82dXRiFl7bX+cV5wJRZtTCMRsYDHnHqjTVViyOCuNkRUWp+EExyNYRqWtlI1r8QzRs2xvRgCg=="
+        length="6366837"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.19</title>
       <description><![CDATA[
         <h2>What's new in 1.6.19</h2>
