@@ -3,6 +3,26 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.23</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.23</h2>
+        <ul>
+          <li><b>See Claude's parallel agents live</b> — when Claude spawns its own subagents to work on several tasks at once, an "N agents working" pill appears above the composer. Tap it to open the Agents panel.</li>
+          <li><b>Every agent gets its own card</b> in the top-right Agents panel, with a live line showing what it's doing right now, plus a detail view with its full activity log and final summary.</li>
+          <li>Fixed: subagent activity no longer leaks into the main chat transcript, and no longer corrupts the context-size warning banner.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 05 Aug 2026 13:00:00 +0000</pubDate>
+      <sparkle:version>73</sparkle:version>
+      <sparkle:shortVersionString>1.6.23</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.23/BerriesCode-1.6.23.zip"
+        sparkle:edSignature="u9Hcz1vs3y7EbN1qdGU959NozfGrkXG8kKkLke+q5ddtemoMiNwP5/FrO335nc2ky0YW05UJv4D9nRLcBiz9Bw=="
+        length="6427212"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.22</title>
       <description><![CDATA[
         <h2>What's new in 1.6.22</h2>
