@@ -3,6 +3,26 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.24</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.24</h2>
+        <ul>
+          <li><b>Agent indicator moved to the composer bar</b> — the "agents working" counter now sits next to the model picker as a compact chip, instead of a wide banner above the text box. Click it to open the Agents panel.</li>
+          <li><b>It's per-chat now</b> — the chip only counts agents working in the chat you're actually looking at. Before, every chat showed every other chat's agents.</li>
+          <li>Fixed: stopping one chat no longer marks another chat's running agents as stopped.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 05 Aug 2026 13:35:00 +0000</pubDate>
+      <sparkle:version>74</sparkle:version>
+      <sparkle:shortVersionString>1.6.24</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.24/BerriesCode-1.6.24.zip"
+        sparkle:edSignature="qJw/13cSQ9OJq53NDhpj9V2Q4dVxhXBewoiCWWMuRIxpfhj7mKXaEynDL2EJX7SlgpZS45Zw2qfl8o142CUTDA=="
+        length="6426140"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.23</title>
       <description><![CDATA[
         <h2>What's new in 1.6.23</h2>
