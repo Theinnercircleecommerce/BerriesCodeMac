@@ -3,6 +3,24 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.26</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.26</h2>
+        <ul>
+          <li><b>Coding Pet</b> — a little pixel cat or dog that hangs out in the chat and reacts to what Claude is doing: paces while it's thinking, runs when agents are working, sits and looks at you when it needs an answer. Off by default — turn it on in Settings &gt; Pets and pick a species.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 06 Aug 2026 17:45:00 +0000</pubDate>
+      <sparkle:version>76</sparkle:version>
+      <sparkle:shortVersionString>1.6.26</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.26/BerriesCode-1.6.26.zip"
+        sparkle:edSignature="QIFH1t7ioxwbm+JATTR4d5BDWZdjBNFS3Gw03VASVdt9uGF5mbtjpb3BDLcflmgjY4ZzjH8EPEVr+kSNXF6XCw=="
+        length="6479471"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.25</title>
       <description><![CDATA[
         <h2>What's new in 1.6.25</h2>
