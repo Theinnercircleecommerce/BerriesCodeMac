@@ -3,6 +3,25 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.25</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.25</h2>
+        <ul>
+          <li><b>Chats name themselves</b> — after a chat's first reply, Berries Code writes a short title describing what the chat is actually about, instead of showing the first 55 characters you typed. Renaming a chat yourself still overrides it.</li>
+          <li><b>New chats show up straight away</b> — a brand-new chat now appears in the sidebar the moment it starts. No more closing and re-opening the project folder to see it.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 06 Aug 2026 13:35:00 +0000</pubDate>
+      <sparkle:version>75</sparkle:version>
+      <sparkle:shortVersionString>1.6.25</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.25/BerriesCode-1.6.25.zip"
+        sparkle:edSignature="PJZ93EwWZYzWIQ/9Kv4AsQQeGSc+4ceu6BsFm6sUdyJJy++SRKZoyEwDqm4NHSwmzwBq6EJGN1JHfL4m3r1ZBQ=="
+        length="6431997"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.24</title>
       <description><![CDATA[
         <h2>What's new in 1.6.24</h2>
