@@ -3,6 +3,24 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.28</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.28</h2>
+        <ul>
+          <li><b>Bigger pet</b> — 56pt &#8594; 84pt.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 07 Aug 2026 19:16:00 +0000</pubDate>
+      <sparkle:version>78</sparkle:version>
+      <sparkle:shortVersionString>1.6.28</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.28/BerriesCode-1.6.28.zip"
+        sparkle:edSignature="LY00P/Q9MT/L/osZ0uUnNrRH8hFA6wXU54OtqfYpwILbpGL9J6Rl9lC6qmCkuK/BUNVUCbmutnQLe8DxaWXJAQ=="
+        length="6487738"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.27</title>
       <description><![CDATA[
         <h2>What's new in 1.6.27</h2>
