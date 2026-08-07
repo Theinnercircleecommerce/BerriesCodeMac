@@ -3,6 +3,24 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.27</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.27</h2>
+        <ul>
+          <li><b>Coding Pet polish</b> — real hand-drawn pixel art instead of the placeholder shapes, bigger (56pt), and it no longer resets when you switch chats. Click it to give it a pet — it bounces and pops a heart.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 07 Aug 2026 19:08:00 +0000</pubDate>
+      <sparkle:version>77</sparkle:version>
+      <sparkle:shortVersionString>1.6.27</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.27/BerriesCode-1.6.27.zip"
+        sparkle:edSignature="eZU8cvvivucXq+rS6yvV3EvDX1U0v2jRaFIp6lz6i1UqBtT7Qom5WTgmm8KtrsNipWybdJLSgVEHod4Zb0lbBg=="
+        length="6487742"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.26</title>
       <description><![CDATA[
         <h2>What's new in 1.6.26</h2>
