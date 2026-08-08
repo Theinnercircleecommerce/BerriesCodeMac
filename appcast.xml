@@ -3,6 +3,25 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.31</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.31</h2>
+        <ul>
+          <li><b>No more shadow</b> — removed it entirely, added a simple ground strip instead.</li>
+          <li><b>Smooth walking</b> — position now glides every frame instead of stepping 8 times a second.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sat, 08 Aug 2026 13:03:35 +0000</pubDate>
+      <sparkle:version>81</sparkle:version>
+      <sparkle:shortVersionString>1.6.31</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.31/BerriesCode-1.6.31.zip"
+        sparkle:edSignature="pfBz9FeLFpIK32ASVo3BvxAQB3wjxH1dZ5HcrXoa9PIUH42T0k9oGTiGUSCJVUaLncEDBIfsByTif8eHGwOdAA=="
+        length="6490843"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.30</title>
       <description><![CDATA[
         <h2>What's new in 1.6.30</h2>
