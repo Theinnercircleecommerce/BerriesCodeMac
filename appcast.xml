@@ -3,6 +3,24 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.30</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.30</h2>
+        <ul>
+          <li><b>Actually fixed the pet</b> — the 1.6.29 shadow fix under-corrected the math, so the shadow was still floating too far below the pet. Also sped up walking/running so it doesn't look like slow motion at the bigger size, and widened the tap area so clicking to pet it is reliable.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sat, 08 Aug 2026 11:19:38 +0000</pubDate>
+      <sparkle:version>80</sparkle:version>
+      <sparkle:shortVersionString>1.6.30</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.30/BerriesCode-1.6.30.zip"
+        sparkle:edSignature="Sxsp1nFVuZZnFSLlw/wkg+Q30zCguzRJ2lBIcJ2cc/XbNPXkhxwR02s6NY6MSANSb8vqeObEt0XxlfCgz8LADA=="
+        length="6488838"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.29</title>
       <description><![CDATA[
         <h2>What's new in 1.6.29</h2>
