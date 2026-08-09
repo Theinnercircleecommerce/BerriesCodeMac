@@ -3,6 +3,24 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.32</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.32</h2>
+        <ul>
+          <li><b>Pet no longer freezes on focus loss</b> — it was pausing whenever Berries Code lost keyboard focus (e.g. switching to Chrome), even while still fully visible on screen. Now it only pauses when actually hidden or covered by another window.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sun, 09 Aug 2026 12:10:01 +0000</pubDate>
+      <sparkle:version>82</sparkle:version>
+      <sparkle:shortVersionString>1.6.32</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.32/BerriesCode-1.6.32.zip"
+        sparkle:edSignature="kFLoEDch8yOGK/0dNZqAXY/qtKdB3qFjgrDMCOGI9jYrRRwqsxgngUg94hF5uVaIhIN1lFVQYW3hiYfWMqQzBw=="
+        length="6490283"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.31</title>
       <description><![CDATA[
         <h2>What's new in 1.6.31</h2>
