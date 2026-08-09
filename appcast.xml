@@ -3,6 +3,24 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.33</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.33</h2>
+        <ul>
+          <li><b>Pet movement overhauled</b> — no longer speeds up or sprints based on what Claude is doing. It now wanders and pauses on its own timer, the same model as the vscode-pets extension: walk or run to the wall, then a chance to sit and rest before moving again.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sun, 09 Aug 2026 15:46:00 +0000</pubDate>
+      <sparkle:version>83</sparkle:version>
+      <sparkle:shortVersionString>1.6.33</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.33/BerriesCode-1.6.33.zip"
+        sparkle:edSignature="mXpcKh9rZEJr32m0R7B/6rZXVMC+TF9pbFX/NAWzTkK7r4JubFyc5mn1GLwQN/M0snip7MQruG+eOhKjCfWUAg=="
+        length="6487983"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.32</title>
       <description><![CDATA[
         <h2>What's new in 1.6.32</h2>
