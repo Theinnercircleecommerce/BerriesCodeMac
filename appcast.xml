@@ -3,6 +3,24 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.35</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.35</h2>
+        <ul>
+          <li><b>Read Aloud speaker button is now clickable</b> — the icon no longer disappears as you move the mouse toward it. The whole reply is now hover-sensitive, not just the text itself, so the button stays put until you click it.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 10 Aug 2026 21:30:00 +0000</pubDate>
+      <sparkle:version>85</sparkle:version>
+      <sparkle:shortVersionString>1.6.35</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.35/BerriesCode-1.6.35.zip"
+        sparkle:edSignature="vzSZHXhAC2AWl0iB6B2sKWAAaRSmkmrGQ3UpoxCOLVSkp2j9+io2DbxWs3Ca/Y3M6Ceg04m6gs41o3CkDONIDA=="
+        length="6524429"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.34</title>
       <description><![CDATA[
         <h2>What's new in 1.6.34</h2>
