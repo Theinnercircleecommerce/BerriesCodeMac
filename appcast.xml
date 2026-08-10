@@ -3,6 +3,25 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.34</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.34</h2>
+        <ul>
+          <li><b>Read Aloud</b> — hover any finished reply and a speaker button appears in its top-right corner. Click it to have the reply read out loud, click again to stop. It reads the prose only, skipping code blocks, tool calls and diffs.</li>
+          <li><b>New Speech settings tab</b> — pick which voice reads to you (including Premium voices like Jamie once downloaded in System Settings) and set the playback speed, with a preview button to tune it by ear.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 10 Aug 2026 21:00:00 +0000</pubDate>
+      <sparkle:version>84</sparkle:version>
+      <sparkle:shortVersionString>1.6.34</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.34/BerriesCode-1.6.34.zip"
+        sparkle:edSignature="A4xPxgYFidphsGkhpvp84KhgE/NDcQ3Qk7IGdgzy00NA5DLgFAWvsiH9VQ0cK20f8nGSDQZNpIIWAA3HxQUFCA=="
+        length="6524203"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.33</title>
       <description><![CDATA[
         <h2>What's new in 1.6.33</h2>
