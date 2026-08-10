@@ -3,6 +3,24 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.36</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.36</h2>
+        <ul>
+          <li><b>Read Aloud no longer reads the Thinking part</b> — it now reads exactly what's on screen. When the reasoning preamble is collapsed behind the "Thinking" toggle, only the visible answer is spoken. Expand the reasoning and it reads that too.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 10 Aug 2026 22:00:00 +0000</pubDate>
+      <sparkle:version>86</sparkle:version>
+      <sparkle:shortVersionString>1.6.36</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.36/BerriesCode-1.6.36.zip"
+        sparkle:edSignature="LpQIrPUJ0UfrqjgURChtCT4V4B4mC9fG9GdfcdV4fkFIhTSvBZYEJfg8+aQx4HdeZtu6udkU+EHGDVox3NE3Bg=="
+        length="6524246"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.35</title>
       <description><![CDATA[
         <h2>What's new in 1.6.35</h2>
