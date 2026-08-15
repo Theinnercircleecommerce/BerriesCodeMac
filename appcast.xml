@@ -3,6 +3,25 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.38</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.38</h2>
+        <ul>
+          <li><b>@hush answers fast now</b> — it reads your circled screenshot and replies straight away instead of going off to read your repo first. It only opens files when the answer genuinely depends on code it can't see.</li>
+          <li><b>Your message is just what you said</b> — the note about which screenshot was circled moved behind the scenes, so the chat no longer shows words you never spoke.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sat, 15 Aug 2026 17:00:00 +0000</pubDate>
+      <sparkle:version>88</sparkle:version>
+      <sparkle:shortVersionString>1.6.38</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.38/BerriesCode-1.6.38.zip"
+        sparkle:edSignature="flZbjrN9AFKCTfkFOiLZWeTHQiIxdeyTxVvrCQNcu4La7ViK4ZkZF/Mib8WUz9euHLHS48XyBcEaOeMDpGtgBw=="
+        length="6544281"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.37</title>
       <description><![CDATA[
         <h2>What's new in 1.6.37</h2>
