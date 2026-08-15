@@ -3,6 +3,25 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.37</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.37</h2>
+        <ul>
+          <li><b>@hush — talk to a chat from anywhere on screen</b> — type <code>@hush</code> in any chat and it gets the Hush pill. Now hold your Hush hotkey anywhere on the Mac, circle what you're looking at, and speak: the screenshot and your question land in that chat, Claude answers with your project in front of it, and Hush reads the answer out loud. Only one chat wears the pill at a time; click it to disconnect.</li>
+          <li><b>It talks before it builds</b> — while a chat is connected to Hush it discusses and diagnoses without touching your files, until you actually say "fix it".</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sat, 15 Aug 2026 16:00:00 +0000</pubDate>
+      <sparkle:version>87</sparkle:version>
+      <sparkle:shortVersionString>1.6.37</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.37/BerriesCode-1.6.37.zip"
+        sparkle:edSignature="yB7gFbtT+apF5D9xjlhCeb6bmta6TNmdMEJjcBuxVFFhggrDTHRRbYTzokiXjmvVZX3A0br5Js0qpDfWmefmDA=="
+        length="6544081"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.36</title>
       <description><![CDATA[
         <h2>What's new in 1.6.36</h2>
