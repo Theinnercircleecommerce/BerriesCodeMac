@@ -3,6 +3,26 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.40</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.40</h2>
+        <ul>
+          <li><b>Remove actually works now</b> — servers that Berries Code doesn't own (your claude.ai connectors like Google Drive, and servers that come from a plugin) no longer offer a Remove button that fails. Each row now says where the server lives and gives you the action that works: a link to your claude.ai connector settings, or a button to disable the plugin that added it.</li>
+          <li><b>New Skills tab</b> — every skill on your Mac is finally visible in the app. Skills aren't plugins, so they never showed up before. Expand a pack to read what each skill does, and right-click to open its folder in Finder.</li>
+          <li><b>Search across skills</b> — typing narrows to matching skills inside each pack, not just pack names.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 20 Aug 2026 18:00:00 +0000</pubDate>
+      <sparkle:version>90</sparkle:version>
+      <sparkle:shortVersionString>1.6.40</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.40/BerriesCode-1.6.40.zip"
+        sparkle:edSignature="JLIwkcirXCy9nUuzQiyrZ1biDmQSOuBi1VcJrjrOSSxQe6quefGN8NhcH0Hw3JRC0iSscaDdzCiFYCKAI6brDg=="
+        length="6697938"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.39</title>
       <description><![CDATA[
         <h2>What's new in 1.6.39</h2>
