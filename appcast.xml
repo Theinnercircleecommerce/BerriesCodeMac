@@ -3,6 +3,27 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.39</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.39</h2>
+        <ul>
+          <li><b>MCP Servers tab</b> — the plugin panel now has a third tab showing every MCP server you have connected, with a live green/red status dot. Broken servers finally show up instead of failing silently in the background.</li>
+          <li><b>Add and remove servers from the app</b> — a plus button adds a server (command, HTTP or SSE) and each row can remove one. No more editing hidden config files by hand.</li>
+          <li><b>Your tokens stay hidden</b> — access tokens and Bearer keys are masked everywhere in the panel, so nothing secret ever shows on screen.</li>
+          <li><b>Disabled plugins are visible</b> — a plugin that is installed but switched off now shows a grey "Disabled" badge, and you can enable or disable it by right-clicking its card.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 20 Aug 2026 16:00:00 +0000</pubDate>
+      <sparkle:version>89</sparkle:version>
+      <sparkle:shortVersionString>1.6.39</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.39/BerriesCode-1.6.39.zip"
+        sparkle:edSignature="+Ubw3CJIAxtQiAlu/XxMYxMDKZiTPp5g67ScBYb8PFjXigRAlrIWX1RQx1X0gyANfPgTsbET+kPaepN9tzbtAQ=="
+        length="6636603"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.38</title>
       <description><![CDATA[
         <h2>What's new in 1.6.38</h2>
