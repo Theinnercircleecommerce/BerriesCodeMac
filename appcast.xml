@@ -3,6 +3,26 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.41</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.41</h2>
+        <ul>
+          <li><b>MCP Servers opens straight away</b> — the tab used to sit blank for around fifteen seconds while it checked every server. Your servers now appear immediately, each with a small spinner that turns into a green dot or a red cross as its check finishes.</li>
+          <li><b>Skills actually show up</b> — the Skills tab was empty because opening the panel cleared which project you were in. It now remembers, so this project's 17 skill packs (132 skills) appear.</li>
+          <li><b>Plugin skills are listed too</b> — skills that come bundled inside plugins like Superpowers now show as their own packs, marked "From plugin". That's another 18 skills.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 20 Aug 2026 20:00:00 +0000</pubDate>
+      <sparkle:version>91</sparkle:version>
+      <sparkle:shortVersionString>1.6.41</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.41/BerriesCode-1.6.41.zip"
+        sparkle:edSignature="4sAzD9Ejo2GV42kMyN50j7kbh7tI7fHqIAy/AsOYmtkgGe0kbjv/ZtBnWTuCsGeiXCxOa33V+fFOtE9cnS8vAw=="
+        length="6712380"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.40</title>
       <description><![CDATA[
         <h2>What's new in 1.6.40</h2>
