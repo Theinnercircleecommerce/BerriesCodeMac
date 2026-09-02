@@ -3,6 +3,27 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.43</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.43</h2>
+        <ul>
+          <li><b>DeepSeek is now a model you can pick</b> — the model picker has a third section with DeepSeek V4 Pro and V4 Flash, alongside Claude and OpenAI Codex. They work like any other model: tool cards, file edits, permission prompts, chat history and resume all behave the same.</li>
+          <li><b>Settings &rsaquo; Models</b> — a new tab to paste your DeepSeek API key. It's kept in your login keychain, and a Test button checks it and shows your balance. Claude and Codex still use their own sign-ins and need nothing here.</li>
+          <li><b>DeepSeek spend meter</b> — Settings &rsaquo; Usage now shows your DeepSeek balance and how much you've spent since you last reset it. The figure comes from DeepSeek's own ledger, so it already accounts for cache discounts and peak-hour rates.</li>
+          <li><b>Switching mid-chat still works</b> — moving between Claude, Codex and DeepSeek in the middle of a conversation hands the new model a summary, so it picks up where the last one left off.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 02 Sep 2026 21:00:00 +0000</pubDate>
+      <sparkle:version>93</sparkle:version>
+      <sparkle:shortVersionString>1.6.43</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.43/BerriesCode-1.6.43.zip"
+        sparkle:edSignature="ipdvFiZoA0LQgFP2i3N2CxescL5jTdgkfWT+ZS8uWPgqPzib4qeNDkvNPc9V2dAMJxUV1AeJiu8XX6s0aABwBA=="
+        length="6770927"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.42</title>
       <description><![CDATA[
         <h2>What's new in 1.6.42</h2>
