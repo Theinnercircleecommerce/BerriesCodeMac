@@ -3,6 +3,25 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.42</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.42</h2>
+        <ul>
+          <li><b>Fable 5.1 in the model picker</b> — the Claude section now offers Fable 5.1, Anthropic's most capable model. It replaces Fable 5; if you had Fable 5 selected, you'll be moved to 5.1 automatically.</li>
+          <li><b>Fable 5.1 for subagents</b> — the Spawn Subagent sheet now lists it too, alongside Haiku 4.5, Sonnet 5 and Opus 5. Agent cards also label Fable agents correctly instead of calling everything "Sonnet".</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 02 Sep 2026 12:00:00 +0000</pubDate>
+      <sparkle:version>92</sparkle:version>
+      <sparkle:shortVersionString>1.6.42</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.42/BerriesCode-1.6.42.zip"
+        sparkle:edSignature="eB8snY0vX35uVSeWCB+GBYDMpSfHCkWsyi/250RgJ9/SZgX8n+29D8ulAAibPj2A92A+YSphVA+reUfygQECCw=="
+        length="6712254"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.41</title>
       <description><![CDATA[
         <h2>What's new in 1.6.41</h2>
