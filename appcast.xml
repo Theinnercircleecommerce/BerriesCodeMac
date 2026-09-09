@@ -3,6 +3,28 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.44</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.44</h2>
+        <ul>
+          <li><b>Builder workers no longer step on each other</b> — when Building mode runs several workers at once, each one now gets its own private copy of your project instead of all editing the same folder. Parallel work can't overwrite or corrupt another worker's changes any more.</li>
+          <li><b>Your unsaved work comes along</b> — each worker's copy starts from your files exactly as they are right now, including edits you haven't committed and brand-new files. Workers see what you see.</li>
+          <li><b>Changes merge back automatically</b> — when a worker finishes, its work lands in your project on its own. If two workers touched the same thing, the clashing one is refused whole rather than half-applied, and the planner is told to redo it.</li>
+          <li><b>The planner grades real code</b> — it now reviews each worker's actual diff instead of trusting the worker's own summary, so "I finished it" claims get checked against what was really written.</li>
+          <li>Your own git history is untouched throughout — nothing is committed on your behalf.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 09 Sep 2026 12:15:00 +0000</pubDate>
+      <sparkle:version>94</sparkle:version>
+      <sparkle:shortVersionString>1.6.44</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.44/BerriesCode-1.6.44.zip"
+        sparkle:edSignature="OPHy0VF8n6IEBo7Hnop1Mk1f7Lmx5+MOpCfCtMQqesEq1H1hidLrUbGBfD9597wQPw0FuqI/SgLPV5Qf9/LeAQ=="
+        length="6788713"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.43</title>
       <description><![CDATA[
         <h2>What's new in 1.6.43</h2>
