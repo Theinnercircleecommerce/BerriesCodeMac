@@ -3,6 +3,28 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.45</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.45</h2>
+        <ul>
+          <li><b>New "Project Only" access mode</b> — pick it in Project Settings or the access menu at the top of a chat. Claude works at full speed inside that project's folder, with no prompts.</li>
+          <li><b>It asks before touching another folder</b> — the first time Claude tries to read or change something outside the project, a window appears showing the exact path. Deny it, allow it once, or allow that whole folder for the rest of the chat.</li>
+          <li><b>One click unlocks a whole project</b> — allowing a folder under your AI files grants that entire project, not just the single file, so you're not clicking Allow over and over.</li>
+          <li><b>Terminal commands are covered too</b> — commands that reach outside the project, including ones using .. or your home folder, get the same prompt.</li>
+          <li>Permission is granted per chat and forgotten when the app quits. Full Machine and Turbo are unchanged.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 10 Sep 2026 15:00:00 +0000</pubDate>
+      <sparkle:version>95</sparkle:version>
+      <sparkle:shortVersionString>1.6.45</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.45/BerriesCode-1.6.45.zip"
+        sparkle:edSignature="pnj2ntpF1QkG5WeyUPXScSZU1xPA10fuNapobpJbNY4nwLBVt5D2SCo7Yfon+RfSuWJYIFO3cECkTw4UB71+AA=="
+        length="6799519"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.44</title>
       <description><![CDATA[
         <h2>What's new in 1.6.44</h2>
