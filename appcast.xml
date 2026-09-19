@@ -3,6 +3,26 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.46</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.46</h2>
+        <ul>
+          <li><b>New "Notify Even When In Front" setting</b> — in Settings → App → Notifications. Turn it on and every finished reply shows a banner and plays your sound, even while Berries Code is the active window. Off by default, so nothing changes unless you flip it.</li>
+          <li><b>Prevent Sleep now actually works</b> — it used to only hold the Mac awake while the Settings panel was open on screen. It now applies from launch and stays on for as long as the app is running.</li>
+          <li><b>Honest Prevent Sleep label</b> — it keeps the Mac from idling to sleep. Closing a MacBook's lid still sleeps it; macOS gives apps no way to stop that.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sun, 20 Sep 2026 06:00:00 +0000</pubDate>
+      <sparkle:version>96</sparkle:version>
+      <sparkle:shortVersionString>1.6.46</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.46/BerriesCode-1.6.46.zip"
+        sparkle:edSignature="YitfWgnGfI2FjIcLDIB1qsHdc/9MOV3vmdbP40SBU0PpTPrJUCHMnVeAQt+FyQCbZB/60mimLk3CB5szVO64CA=="
+        length="6801808"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.45</title>
       <description><![CDATA[
         <h2>What's new in 1.6.45</h2>
