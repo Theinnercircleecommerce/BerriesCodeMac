@@ -3,6 +3,26 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.47</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.47</h2>
+        <ul>
+          <li><b>Local servers are now Mac-only</b> — the permission-prompt server, the Hush bridge and the phone remote server used to listen on every network interface, so another device on the same Wi-Fi could reach them (a secret token still guarded every request). They now listen on 127.0.0.1 only. Nothing outside your Mac can connect, token or not.</li>
+          <li><b>Remote token no longer written to the system log</b> — the phone remote server printed its bearer token to the macOS unified log at startup. It doesn't anymore.</li>
+          <li>Carries the DeepSeek-over-remote plumbing and usage-view tweaks that were sitting unreleased.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Tue, 22 Sep 2026 08:00:00 +0000</pubDate>
+      <sparkle:version>97</sparkle:version>
+      <sparkle:shortVersionString>1.6.47</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.47/BerriesCode-1.6.47.zip"
+        sparkle:edSignature="IkIyNFrVICWhe9e/FOVuVP2y/KpekZlgDDDWjS5c+h4D9+re7z9OSn/oGMM8DyDCBdgxlbCPdby1ofXbM6fXCA=="
+        length="6801765"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.46</title>
       <description><![CDATA[
         <h2>What's new in 1.6.46</h2>
