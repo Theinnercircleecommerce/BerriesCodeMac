@@ -3,6 +3,26 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.49</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.49</h2>
+        <ul>
+          <li><b>Live iPhone panel</b> — click the new phone button in the top bar to get a live iPhone Simulator right next to your chat. Tap, swipe, scroll and type on it with your mouse, trackpad and keyboard. No extra download: it uses the simulator Xcode already installed.</li>
+          <li><b>▶ Run</b> — in a folder with an iPhone project, Run builds your app and launches it on the phone. Build errors and crashes show up in the panel with a <b>Fix with Claude</b> button that sends just the important lines to Claude.</li>
+          <li><b>Watch Claude test your app</b> — when Claude uses the phone (mobile-mcp), the panel opens by itself and shows "Claude is using the phone". Close it and it stays closed for that chat.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Tue, 29 Sep 2026 15:00:00 +0000</pubDate>
+      <sparkle:version>99</sparkle:version>
+      <sparkle:shortVersionString>1.6.49</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.49/BerriesCode-1.6.49.zip"
+        sparkle:edSignature="TpYgl+VPofecgtyKHeLPLaOLyjvFxaKV1Nvz2XVvUNtcBngiBIaQSC+7mLKTU2zr/Wj8L8J063f1vKjyPXe1Cw=="
+        length="6909135"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.48</title>
       <description><![CDATA[
         <h2>What's new in 1.6.48</h2>
