@@ -3,6 +3,29 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.50</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.50</h2>
+        <ul>
+          <li><b>Real thinking</b>: you now see the model's actual reasoning while it works, in a small scrolling panel that turns into a "Thought for 12s" row when done. Pick the style in Settings, Appearance.</li>
+          <li><b>Tool results</b>: click any tool row (Read, Bash, Grep…) to see what it returned. Edits and new files show a green and red diff.</li>
+          <li><b>Full markdown</b>: tables, quotes, links, italics, nested lists and checklists now render properly.</li>
+          <li><b>Settings sections</b>: General, Appearance, Notifications, AI, Fun and Account. Appearance adds code font and size, chat width, density, follow-system theme, plus Gruvbox and Nord.</li>
+          <li><b>Notifications</b>: separate switches for "Needs you" (approvals, questions) and "Finished".</li>
+          <li><b>Quick Entry</b>: press ⌥ Space in any app to type a prompt. It opens a new chat in the project you pick.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 09 Oct 2026 14:00:00 +0000</pubDate>
+      <sparkle:version>100</sparkle:version>
+      <sparkle:shortVersionString>1.6.50</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.50/BerriesCode-1.6.50.zip"
+        sparkle:edSignature="7gJb79CXYUBqJi3t1EQNrMKf1ZvzG0yhOifGuVrKcokNiBgLwC2U7zWIvfpPektxISbffZ+3HluHg1+Jy1USBA=="
+        length="7080171"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.49</title>
       <description><![CDATA[
         <h2>What's new in 1.6.49</h2>
