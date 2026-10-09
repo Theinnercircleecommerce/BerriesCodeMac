@@ -3,6 +3,27 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.51</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.51</h2>
+        <ul>
+          <li><b>Message queue</b>: type while Claude is working and your message waits above the box, then sends itself when Claude finishes. Stop pauses the queue. Each queued message has Send now and remove.</li>
+          <li><b>Checkpoints</b>: before every message your project files are saved. Hover one of your messages and click the clock to put the files back to that point. You can undo a restore. Works in git projects.</li>
+          <li><b>Permissions</b>: new Settings screen with Always Block and Always Allow lists for terminal commands. Blocked commands are refused in every mode, Turbo included.</li>
+          <li>The app is now called Berries Code everywhere, including the menu bar.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 09 Oct 2026 06:20:00 +0000</pubDate>
+      <sparkle:version>101</sparkle:version>
+      <sparkle:shortVersionString>1.6.51</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.51/BerriesCode-1.6.51.zip"
+        sparkle:edSignature="9d8KftSTWdsVwd5Vgg7Lq6IMeIuY5W5g3+Dom3ffyQ4nYycs2cq/wsxMpYq0B9Dzmn/9ra1bpM6YKtVQqqB6Aw=="
+        length="7153706"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.50</title>
       <description><![CDATA[
         <h2>What's new in 1.6.50</h2>
