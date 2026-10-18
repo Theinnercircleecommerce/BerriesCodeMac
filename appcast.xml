@@ -3,6 +3,28 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.52</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.52</h2>
+        <ul>
+          <li><b>The "finished" sound now plays when the reply is actually ready</b>, not a minute later when the background process finally exits.</li>
+          <li><b>No "finished" sound for runs you stopped or that failed.</b> Only a real reply counts.</li>
+          <li><b>"Needs You" has its own sound.</b> Approval prompts and questions no longer sound like a finished reply. Pick it in Settings → Notifications.</li>
+          <li><b>"Even When In Front" is now smarter:</b> the chat you're looking at stays quiet; only chats you're not viewing notify.</li>
+          <li>Every notification is logged so a surprise sound can be traced.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sun, 18 Oct 2026 09:28:08 +0000</pubDate>
+      <sparkle:version>102</sparkle:version>
+      <sparkle:shortVersionString>1.6.52</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.52/BerriesCode-1.6.52.zip"
+        sparkle:edSignature="Q2Tpw3XI5pBXJqHXZxp8u+xeuvwWKbizp496ygLBKr7OtYCJe7UO7g9JprjbqfkQqaPGuEx8hzSgTkgK7nymDw=="
+        length="7158487"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.51</title>
       <description><![CDATA[
         <h2>What's new in 1.6.51</h2>
