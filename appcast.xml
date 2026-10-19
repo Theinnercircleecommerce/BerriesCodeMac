@@ -3,6 +3,24 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.53</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.53</h2>
+        <ul>
+          <li><b>You hear "finished" again for the chat you're looking at</b> when "Even When In Front" is on.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 19 Oct 2026 06:44:06 +0000</pubDate>
+      <sparkle:version>103</sparkle:version>
+      <sparkle:shortVersionString>1.6.53</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.53/BerriesCode-1.6.53.zip"
+        sparkle:edSignature="Vrkxe0OsA5DRjsoljMlUpNC4d4aMttqjVNUDAA5GoKqzgwlSRI0ogFzKLNRas7wXntxt8equanQm9yH4e9FvBQ=="
+        length="7159359"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.52</title>
       <description><![CDATA[
         <h2>What's new in 1.6.52</h2>
