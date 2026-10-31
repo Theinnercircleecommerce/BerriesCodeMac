@@ -3,6 +3,24 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.59</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.59</h2>
+        <ul>
+          <li><b>Dock app drawer looks like part of the Dock now.</b> Same glass as the Dock, Dock-sized icons, a small pointer aimed at the Berries Code icon, and the app name shows as a Dock-style bubble when you hover a tile.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sat, 31 Oct 2026 18:41:23 +0000</pubDate>
+      <sparkle:version>109</sparkle:version>
+      <sparkle:shortVersionString>1.6.59</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.59/BerriesCode-1.6.59.zip"
+        sparkle:edSignature="1eprTwFYlghpbcn5r0fKPvYYzaUQ3Dee1NclM2TNPHrYLKEFRJKCUMxd1f+XlAFXFMQFcJxK6ywtY5HSHoTWDQ=="
+        length="7370576"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.6.58</title>
       <description><![CDATA[
         <h2>What's new in 1.6.58</h2>
