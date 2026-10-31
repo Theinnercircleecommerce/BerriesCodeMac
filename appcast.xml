@@ -3,6 +3,27 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.55</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.55</h2>
+        <ul>
+          <li><b>New Editor window.</b> File &rarr; Open Editor (&#8984;&#8679;E), or the new "Open in Editor" button at the top of the file panel. It opens in its own window next to Berries Code.</li>
+          <li><b>Drop a folder in</b> (or click the folder icon) to load it as a tree. Click files to open them in tabs. Line numbers, &#8984;S to save, unsaved-changes warning on close.</li>
+          <li><b>Find &amp; Replace across the whole folder</b> (&#8984;&#8679;F). Every match is listed by file and line with a checkbox, so you can untick the ones to keep before hitting Replace Selected. Match case and Whole word toggles. Skips .git, node_modules, build folders and binaries.</li>
+          <li>The in-chat file viewer now shows line numbers too.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sat, 31 Oct 2026 08:46:49 +0000</pubDate>
+      <sparkle:version>105</sparkle:version>
+      <sparkle:shortVersionString>1.6.55</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.55/BerriesCode-1.6.55.zip"
+        sparkle:edSignature="duxHZEQv3QtWMaNBlnP78JmPZbTtmjU/45POzyLty585JjP+WKlnb45oWcQsFZKzt8L9sp32ylXwNOCyUBUNCg=="
+        length="7300911"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.54</title>
       <description><![CDATA[
         <h2>What's new in 1.6.54</h2>
