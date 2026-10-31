@@ -3,6 +3,27 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.57</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.57</h2>
+        <ul>
+          <li><b>Dock app drawer.</b> Rest the mouse on the Berries Code icon in the Dock for a moment and a small panel slides up with your other Berries apps (Berries Disk, Berries Devices). Click one to open it.</li>
+          <li><b>Right-click the Dock icon</b> for the same list, no permission needed.</li>
+          <li><b>Settings &rarr; General</b> has the on/off switch and a hold-time slider (0.5 to 3 seconds, default 1.5).</li>
+          <li>macOS asks once for <b>Accessibility</b> permission so the app can find its own Dock icon. Until you allow it, only the right-click menu works.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sat, 31 Oct 2026 18:11:06 +0000</pubDate>
+      <sparkle:version>107</sparkle:version>
+      <sparkle:shortVersionString>1.6.57</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.57/BerriesCode-1.6.57.zip"
+        sparkle:edSignature="CPAsTkcIVp2jycD6bFbt0rVloDVeqwoYA3tgNY9owJXQw539AuycFBvIcUP3fgGFGIThxgnNhhDrs6mvKoj9BA=="
+        length="7350242"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.6.56</title>
       <description><![CDATA[
         <h2>What's new in 1.6.56</h2>
