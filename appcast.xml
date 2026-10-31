@@ -3,6 +3,24 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.56</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.56</h2>
+        <ul>
+          <li><b>Berries Code now shows up in Finder's "Open With" menu</b> for Markdown, text, code, JSON, YAML, CSV files and folders. Opening one lands in the Editor window. You can also drag a file or folder onto the Dock icon.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sat, 31 Oct 2026 11:20:16 +0000</pubDate>
+      <sparkle:version>106</sparkle:version>
+      <sparkle:shortVersionString>1.6.56</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.56/BerriesCode-1.6.56.zip"
+        sparkle:edSignature="wEMowlImdiLrGfPH/KL5GT3FRYU6JfDWFHJZonRzsE8is7yuQ+tYFnREzpYXeDWm5SLvCXSxISq1JCpe6CSqAQ=="
+        length="7301360"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.55</title>
       <description><![CDATA[
         <h2>What's new in 1.6.55</h2>
