@@ -3,6 +3,24 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.54</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.54</h2>
+        <ul>
+          <li><b>The usage ring in the top bar is back.</b> Anthropic removed the 5-hour limit for Ultra accounts on Oct 30, so the ring now shows your weekly limit instead. If a 5-hour limit comes back, it switches to that automatically. Hover it to see which limit it is and when it resets.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sat, 31 Oct 2026 05:54:39 +0000</pubDate>
+      <sparkle:version>104</sparkle:version>
+      <sparkle:shortVersionString>1.6.54</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.54/BerriesCode-1.6.54.zip"
+        sparkle:edSignature="+uUTh48T8SYtXQUs3QHeyWnT11u7gdYcUBPJmwMI1kwLhsBk4I/yDdT8gbgLHu8+oVrmbKDvH51yA96aP8LmDg=="
+        length="7159490"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.53</title>
       <description><![CDATA[
         <h2>What's new in 1.6.53</h2>
