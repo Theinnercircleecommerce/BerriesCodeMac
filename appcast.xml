@@ -3,6 +3,24 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.61</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.61</h2>
+        <ul>
+          <li><b>Dock app drawer: crisp, bare icons.</b> Dropped the drop shadow that drew a grey halo around each icon and softened them.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sun, 01 Nov 2026 03:09:37 +0000</pubDate>
+      <sparkle:version>111</sparkle:version>
+      <sparkle:shortVersionString>1.6.61</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.61/BerriesCode-1.6.61.zip"
+        sparkle:edSignature="l+9tcsQ4FmjKSyXOOJSIF7v/3kn3UCHNMeHJ6om7nmcKb9myDMpnMobble0zLs9I01U7jT/BcMjDUxhKoJEUBA=="
+        length="7363824"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.6.60</title>
       <description><![CDATA[
         <h2>What's new in 1.6.60</h2>
