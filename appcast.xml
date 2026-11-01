@@ -3,6 +3,24 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.62</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.62</h2>
+        <ul>
+          <li><b>Dock app drawer: the hover name bubble now matches the Dock's own</b> &mdash; translucent capsule, hairline border, regular text, no pointer, right above the icon.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sun, 01 Nov 2026 03:22:12 +0000</pubDate>
+      <sparkle:version>112</sparkle:version>
+      <sparkle:shortVersionString>1.6.62</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.62/BerriesCode-1.6.62.zip"
+        sparkle:edSignature="tlDAO6TXMJ9SpgQ4eNCFB8/UTWVtmaa1S3vQIt0D3mPRXySOcUkyzNApNgsFh/rCf8idsfQ106GcSx4TShvhCA=="
+        length="7361400"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.6.61</title>
       <description><![CDATA[
         <h2>What's new in 1.6.61</h2>
