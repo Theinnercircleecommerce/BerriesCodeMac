@@ -3,6 +3,25 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.64</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.64</h2>
+        <ul>
+          <li><b>Select a whole reply in one drag.</b> Each reply is now one continuous block of text, like a web page &mdash; drag from the first line to the last (or click in it and press Cmd+A), then Cmd+C. Selection no longer stops at every paragraph, and it runs through lists, quotes, tables and code.</li>
+          <li>Code blocks keep their hover Copy button.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 02 Nov 2026 11:15:48 +0000</pubDate>
+      <sparkle:version>114</sparkle:version>
+      <sparkle:shortVersionString>1.6.64</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.64/BerriesCode-1.6.64.zip"
+        sparkle:edSignature="sZw9NxVEozn5vpQccwSh7lcjanU48VOI5sYColF9BRujYzhCZSaFAB4oevIoq7n6l5ZZG0Pjxrgopen4svu1CQ=="
+        length="7343957"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.6.63</title>
       <description><![CDATA[
         <h2>What's new in 1.6.63</h2>
