@@ -3,6 +3,24 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.63</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.63</h2>
+        <ul>
+          <li><b>Copy a whole reply.</b> Hover any finished reply and a Copy button appears next to the speaker button. It copies the reply exactly as written, code blocks included, and shows a checkmark for two seconds.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 02 Nov 2026 05:30:37 +0000</pubDate>
+      <sparkle:version>113</sparkle:version>
+      <sparkle:shortVersionString>1.6.63</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.63/BerriesCode-1.6.63.zip"
+        sparkle:edSignature="U/ebiKH2bWS8mK10+pzYyWCp+mGPpgopdn4q444wTI42RNT6r3/CZ3P4f/vr3SZFwa+y4iJk9T5d5lL4H4h0DQ=="
+        length="7365897"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.6.62</title>
       <description><![CDATA[
         <h2>What's new in 1.6.62</h2>
