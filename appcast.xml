@@ -3,6 +3,25 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.66</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.66</h2>
+        <ul>
+          <li><b>Deleted chats are no longer gone for good.</b> A deleted chat moves to a collapsed "Recently deleted" row at the bottom of its project. Hover it and click Restore to bring it back. After 3 days it is erased.</li>
+          <li><b>Fixed: a chat that moved into a git worktree vanished from the sidebar</b> while still running. Its project now keeps listing it, and opening it reconnects to the live chat.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 05 Nov 2026 08:49:45 +0000</pubDate>
+      <sparkle:version>116</sparkle:version>
+      <sparkle:shortVersionString>1.6.66</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.66/BerriesCode-1.6.66.zip"
+        sparkle:edSignature="7ACqLN2LD1NG+aHmw7qyq4D/rE7/BmUCyjRx0qg3o3C2GHa43imb/lwG61KFjJl+9fnJbWg65hrzPKg94zEjDQ=="
+        length="7373654"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.6.65</title>
       <description><![CDATA[
         <h2>What's new in 1.6.65</h2>
