@@ -3,6 +3,25 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.65</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.65</h2>
+        <ul>
+          <li><b>Fixed: replies squeezed into a narrow column and spilling over the messages below.</b> Replies now always use the full chat width and never overlap.</li>
+          <li><b>Fixed: separate parts of one reply running together</b> (like "...release notes say to.## What's going on"). Each part now starts on its own paragraph.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 05 Nov 2026 07:26:08 +0000</pubDate>
+      <sparkle:version>115</sparkle:version>
+      <sparkle:shortVersionString>1.6.65</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.65/BerriesCode-1.6.65.zip"
+        sparkle:edSignature="1B8T+VbjJ0GjkzPQgf1s8LoSHVh+Je1yvJ7ho4CgLJPTIZoJ/sOJG9JIYEYlH4/VNhvFGrQTnbO4od0a1XacAg=="
+        length="7346123"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.6.64</title>
       <description><![CDATA[
         <h2>What's new in 1.6.64</h2>
