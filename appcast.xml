@@ -3,6 +3,25 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.71</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.71</h2>
+        <ul>
+          <li><b>Phone Remote: the right chats.</b> The iPhone app listed background sessions the Mac hides (they showed up as "New conversation"), so a project could show 46 chats on the phone and 11 on the Mac. Both lists now use the same rule and match.</li>
+          <li><b>Same chat titles on the phone.</b> The phone now shows the same automatic chat titles as the Mac sidebar.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Tue, 10 Nov 2026 23:05:00 +0000</pubDate>
+      <sparkle:version>121</sparkle:version>
+      <sparkle:shortVersionString>1.6.71</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.71/BerriesCode-1.6.71.zip"
+        sparkle:edSignature="gr5TqX0WMt/6gyPzGSHGWTKV8tSGaUq73HOEAc6CZ35utWRoUcszpyy0XcwpGIWA9vM0nW+kWjGOSb1vxAhmAw=="
+        length="7443585"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.6.70</title>
       <description><![CDATA[
         <h2>What's new in 1.6.70</h2>
