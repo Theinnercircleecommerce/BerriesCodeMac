@@ -3,6 +3,27 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.70</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.70</h2>
+        <ul>
+          <li><b>Phone Remote.</b> Chat in your projects from the Berries Code iPhone app, from anywhere, over Tailscale. Turn it on in Settings → Phone Remote and scan the code with your iPhone.</li>
+          <li><b>Same chat on both.</b> A chat you start or continue on the phone runs in the real Berries Code chat on your Mac, so it's there when you sit down again. Stop works from the phone too.</li>
+          <li><b>Private by design.</b> The Mac only listens on its Tailscale address, never on Wi-Fi or the internet, and it's off until you switch it on.</li>
+          <li><b>Stays reachable.</b> While Phone Remote is on, your Mac stays awake on the charger (you can change this to Always). Closing the lid still puts it to sleep.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Tue, 10 Nov 2026 21:40:00 +0000</pubDate>
+      <sparkle:version>120</sparkle:version>
+      <sparkle:shortVersionString>1.6.70</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.70/BerriesCode-1.6.70.zip"
+        sparkle:edSignature="v4WvxCsm75Q65lTpO/jOCcSYwQTGjqNhx/cZ5S6aXY3PKgyZJ1wO/VasLiqzP47aIND3Qp9GfbEcEFz5u23fDQ=="
+        length="7444470"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.6.69</title>
       <description><![CDATA[
         <h2>What's new in 1.6.69</h2>
