@@ -3,6 +3,24 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.69</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.69</h2>
+        <ul>
+          <li><b>Fable 5.2 is here.</b> The model picker and agents now use Claude Fable 5.2 instead of Fable 5.1. If you had Fable 5.1 picked, you're moved to 5.2 automatically.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Tue, 10 Nov 2026 10:20:00 +0000</pubDate>
+      <sparkle:version>119</sparkle:version>
+      <sparkle:shortVersionString>1.6.69</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.69/BerriesCode-1.6.69.zip"
+        sparkle:edSignature="FPeGYu8dHUryVrdgpKYPV5qH/rtpPhSiLSxVg+DUW8fQl7LRWwC9WEBbpK+WGZIccotHRIIBdaxlnFQy+koXAw=="
+        length="7367908"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.6.68</title>
       <description><![CDATA[
         <h2>What's new in 1.6.68</h2>
