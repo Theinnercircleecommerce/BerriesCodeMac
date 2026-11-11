@@ -3,6 +3,25 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.73</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.73</h2>
+        <ul>
+          <li><b>Thought process on your iPhone.</b> Replies in the Berries Code iPhone app now show "Thought for 12s". Tap it to read what Claude was thinking, same as on the Mac.</li>
+          <li><b>Long-chat warning on your iPhone.</b> The "getting long" and "nearly full" banner now shows on the phone too, at the same points as on the Mac.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 11 Nov 2026 09:00:00 +0000</pubDate>
+      <sparkle:version>123</sparkle:version>
+      <sparkle:shortVersionString>1.6.73</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.73/BerriesCode-1.6.73.zip"
+        sparkle:edSignature="+/eFt1zEjIqqzl+UQ0OFGn5gmYaOPwfpqhgXF/fRT6dTlCYeUGP8Xc4cjbnORpI+gn2LvFSU55B17X5RA5rIBw=="
+        length="7445230"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.6.72</title>
       <description><![CDATA[
         <h2>What's new in 1.6.72</h2>
