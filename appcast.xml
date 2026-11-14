@@ -3,6 +3,25 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.75</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.75</h2>
+        <ul>
+          <li><b>Checkpoints no longer eat your disk.</b> Big files that aren't part of your code (test data, AI models, videos) are left out of the automatic snapshots taken before each message. One project had grown by 3.7 GB because of this.</li>
+          <li><b>Restore is unchanged for your code.</b> Everything git tracks is still snapshotted whatever its size, and restoring a checkpoint never touches the big files that were left out.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sat, 14 Nov 2026 10:00:00 +0000</pubDate>
+      <sparkle:version>125</sparkle:version>
+      <sparkle:shortVersionString>1.6.75</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.75/BerriesCode-1.6.75.zip"
+        sparkle:edSignature="61hbqPf5CY8MQA60/IuBkiREiAvyuyUxzFrqdNBoFfu8mOnFTSbI01RXNz3zBswCz/+43++y2YK4hHJ2BQYbAg=="
+        length="7449903"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.6.74</title>
       <description><![CDATA[
         <h2>What's new in 1.6.74</h2>
