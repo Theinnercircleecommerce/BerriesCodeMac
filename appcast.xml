@@ -3,6 +3,27 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.76</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.76</h2>
+        <ul>
+          <li><b>Plans.</b> A shared checklist for work that spans several chats. Click the checklist button in the top bar, press "+ New plan", and a chat writes the steps with you.</li>
+          <li><b>Chats tick the boxes themselves.</b> Every chat in the project knows the open plans. When one finishes a step it ticks it, and the panel shows which chat did it and when.</li>
+          <li><b>See what you left hanging.</b> "All projects" lists every unfinished plan, with ones untouched for 7 days marked Stalled. Each project in the sidebar shows its open plan count.</li>
+          <li><b>Continue in new chat.</b> One click starts a chat on the next open step.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 16 Nov 2026 10:30:00 +0000</pubDate>
+      <sparkle:version>126</sparkle:version>
+      <sparkle:shortVersionString>1.6.76</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.76/BerriesCode-1.6.76.zip"
+        sparkle:edSignature="IJBU6vO5hVrxMyLMbSo3owbahzOBYyH+cDvzuyteM3gjunWgEFdG+KX8oeAegZXGWVllVpTOu7Wlmn7GBxANDw=="
+        length="7634422"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.6.75</title>
       <description><![CDATA[
         <h2>What's new in 1.6.75</h2>
