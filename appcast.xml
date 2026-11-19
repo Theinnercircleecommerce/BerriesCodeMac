@@ -3,6 +3,27 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.77</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.77</h2>
+        <ul>
+          <li><b>Phone Remote no longer needs a VPN.</b> The iPhone app now reaches this Mac through a Cloudflare Tunnel at remote.berriescode.app instead of Tailscale, so it connects right away and NordVPN can stay on.</li>
+          <li><b>Two locks.</b> Cloudflare blocks anyone without the phone key before they reach the Mac, and the Mac still checks its own code.</li>
+          <li><b>New in Settings → Phone Remote:</b> a Phone key box and a live "Connected" status. The pairing code only shows once the connection works.</li>
+          <li><b>Scan the code again.</b> Update the iPhone app too, then scan the new code. Old pairings stop working.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 19 Nov 2026 04:50:00 +0000</pubDate>
+      <sparkle:version>127</sparkle:version>
+      <sparkle:shortVersionString>1.6.77</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.77/BerriesCode-1.6.77.zip"
+        sparkle:edSignature="ISZLN7HC8CAOg34XV7A+4YnxRh8b2juWWXYT0EgrWyTtmRJz7JFVN5cjVAmxD9FbTV60OieyL8+Oarr1wW5gCA=="
+        length="7662955"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.6.76</title>
       <description><![CDATA[
         <h2>What's new in 1.6.76</h2>
