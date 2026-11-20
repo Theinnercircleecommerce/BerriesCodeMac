@@ -3,6 +3,25 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.82</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.82</h2>
+        <ul>
+          <li><b>You can leave the Overview.</b> Click Overview in the sidebar again to go back to the chat you were in.</li>
+          <li><b>Sidebar chats open normally.</b> Clicking a chat or project in the sidebar now opens it full size, like before. Only a card's Open button keeps the cards on screen.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 20 Nov 2026 06:32:48 +0000</pubDate>
+      <sparkle:version>132</sparkle:version>
+      <sparkle:shortVersionString>1.6.82</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.82/BerriesCode-1.6.82.zip"
+        sparkle:edSignature="2ccPekqCYy83dqoYFxcBujfORl6867LCOtezZYHh+OMsdSbAACoib0RQFPfrACYpq3MWkThpMiPEwMVaF3/7BQ=="
+        length="29134400"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.6.81</title>
       <description><![CDATA[
         <h2>What's new in 1.6.81</h2>
