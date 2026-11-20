@@ -3,6 +3,25 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.80</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.80</h2>
+        <ul>
+          <li><b>Calls wait until you are done.</b> The call now waits 2.5 seconds of silence before it answers, so a pause to think no longer cuts you off.</li>
+          <li><b>Click when you're done.</b> Click the call pill while it is listening to get the answer right away instead of waiting.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 20 Nov 2026 03:25:00 +0000</pubDate>
+      <sparkle:version>130</sparkle:version>
+      <sparkle:shortVersionString>1.6.80</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.80/BerriesCode-1.6.80.zip"
+        sparkle:edSignature="JL9CdT+RIzNGrYr7l9Pn+TL3PbC93t1LY4MBjAIKh8FKM9iE3yqPQR18LREFvaBoYiq44oRMK6V3u6TgcJo9CQ=="
+        length="28984934"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.6.79</title>
       <description><![CDATA[
         <h2>What's new in 1.6.79</h2>
