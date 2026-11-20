@@ -3,6 +3,28 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.78</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.78</h2>
+        <ul>
+          <li><b>Call.</b> Click the phone icon in the message box to talk to a chat hands-free. You speak, Claude answers out loud in a few short sentences, and it keeps listening until you hang up. Click the pill while it talks to interrupt.</li>
+          <li><b>Your voice stays on this Mac.</b> Speech is turned into text on the Mac itself; only the text goes to Claude. The first call asks for the microphone and speech recognition.</li>
+          <li><b>New voice.</b> Calls use a small built-in voice that runs on the Mac, free, with no internet needed. Read Aloud is unchanged.</li>
+          <li><b>Calls from the iPhone.</b> With the updated iPhone app, the phone icon there starts the same call from anywhere.</li>
+          <li><b>Bigger download.</b> The voice adds about 20 MB to this update.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 20 Nov 2026 02:42:00 +0000</pubDate>
+      <sparkle:version>128</sparkle:version>
+      <sparkle:shortVersionString>1.6.78</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.78/BerriesCode-1.6.78.zip"
+        sparkle:edSignature="V0Pt2mH0JXqRmOxSRuwnWbNTkRWwuFklOKiIEwAhjDApkptUxDgIJnxrGzLa8ozDw8OCK9f880XE5bUGCdi+Aw=="
+        length="28984582"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.6.77</title>
       <description><![CDATA[
         <h2>What's new in 1.6.77</h2>
