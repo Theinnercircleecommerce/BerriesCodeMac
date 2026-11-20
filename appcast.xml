@@ -3,6 +3,27 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.81</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.81</h2>
+        <ul>
+          <li><b>Overview.</b> A new screen at the top of the sidebar shows every active chat as a live card: what it is doing right now, its latest reply, and whether it needs you. Chats waiting on you sort to the top.</li>
+          <li><b>Answer without opening the chat.</b> Each card has its own reply box, and Allow / Deny or a question's answer buttons sit right on the card.</li>
+          <li><b>Open a chat beside the cards.</b> Click Open (or any chat in the sidebar) to work in one full chat while the rest stay in view. The arrows make it full size again.</li>
+          <li><b>Fixed:</b> a message sent to a chat that was still loading its history could be lost.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 20 Nov 2026 04:18:00 +0000</pubDate>
+      <sparkle:version>131</sparkle:version>
+      <sparkle:shortVersionString>1.6.81</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.81/BerriesCode-1.6.81.zip"
+        sparkle:edSignature="FhbCAhhWwIFage2xZxymx/ziY8+5bCm62euVueVvlXq+2GCAxAP4z6crnzOztLgemZoqvNPSqwzMPa8zJrs2DA=="
+        length="29130438"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.6.80</title>
       <description><![CDATA[
         <h2>What's new in 1.6.80</h2>
