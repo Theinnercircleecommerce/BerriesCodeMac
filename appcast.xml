@@ -3,6 +3,26 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.79</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.79</h2>
+        <ul>
+          <li><b>Faster answers on a call.</b> Spoken turns skip connecting the extra tool servers, which saved about a second and a half per reply in testing, and the app waits 1 second of silence instead of 1.6 before it answers.</li>
+          <li><b>Voice back to its natural pitch.</b> The lowered voice sounded robotic at the ends of sentences.</li>
+          <li><b>Good to know:</b> during a call Claude cannot use the extra tool servers (Supabase, browser, Figma). Files, search and the terminal still work.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 20 Nov 2026 03:05:00 +0000</pubDate>
+      <sparkle:version>129</sparkle:version>
+      <sparkle:shortVersionString>1.6.79</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.79/BerriesCode-1.6.79.zip"
+        sparkle:edSignature="xBx3QcWcMzbLNH1+tbe9PC5qb48DxyrXU0G7zkjyFzo795cjOdxOA1pkHMUjie24bfdWAy0edb2siYS/3bsOAA=="
+        length="28984548"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.6.78</title>
       <description><![CDATA[
         <h2>What's new in 1.6.78</h2>
