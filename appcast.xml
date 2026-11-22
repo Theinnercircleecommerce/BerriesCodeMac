@@ -3,6 +3,26 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.83</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.83</h2>
+        <ul>
+          <li><b>Split view: 2, 3 or 4 chats on one screen.</b> Click the new split button in the top right and pick how many. New panes fill with your most active chats.</li>
+          <li><b>Click a pane to work in it.</b> The outlined pane is the active one: the sidebar, files, plans and phone panels follow it. Pick a chat in the sidebar to put it in that pane; a chat already on screen is just focused where it is.</li>
+          <li><b>Close a pane with its x.</b> The chat keeps running. Your layout is remembered next time you open the app.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sun, 22 Nov 2026 04:42:49 +0000</pubDate>
+      <sparkle:version>133</sparkle:version>
+      <sparkle:shortVersionString>1.6.83</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.83/BerriesCode-1.6.83.zip"
+        sparkle:edSignature="C5ZiWfwOsBuGnq67lBPL79PG/I8vS12/6DXbk0AfzpRQ6JpRv5WVYrxa2gm7cHuxyHcCPv6uYHlzHU0vPnasBA=="
+        length="29194197"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.6.82</title>
       <description><![CDATA[
         <h2>What's new in 1.6.82</h2>
