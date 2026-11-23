@@ -3,6 +3,28 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.84</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.84</h2>
+        <ul>
+          <li><b>Calls hear your whole sentence.</b> Calls now use Apple's newer on-device speech recogniser. Pausing to think no longer wipes what you said before the pause.</li>
+          <li><b>You can always see what the call is doing.</b> The call pill says Listening, Thinking, Speaking or Muted, and shows the words it has heard so far.</li>
+          <li><b>Every action has its own button.</b> Mute the microphone, answer now (the arrow), stop the answer (the square), hang up (red). Clicking the pill itself no longer does anything.</li>
+          <li><b>Two small sounds.</b> One when your turn is taken, one when it is listening again.</li>
+          <li><b>If listening breaks, it restarts by itself,</b> and tells you if it cannot. Every call is written to a log on your Mac so problems can be read back.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 23 Nov 2026 01:51:11 +0000</pubDate>
+      <sparkle:version>134</sparkle:version>
+      <sparkle:shortVersionString>1.6.84</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.84/BerriesCode-1.6.84.zip"
+        sparkle:edSignature="eIjgf6oFUF4x9jdPTCmxeFu3qwDcm4FXwcTRqPST58wPU/WrpN8CipwPo0j2irnBXmKMSiRAzBolCUqfUCiHCA=="
+        length="29225537"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.6.83</title>
       <description><![CDATA[
         <h2>What's new in 1.6.83</h2>
