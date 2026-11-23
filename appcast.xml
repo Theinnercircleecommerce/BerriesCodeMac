@@ -3,6 +3,26 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.85</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.85</h2>
+        <ul>
+          <li><b>Your iPhone can be told when a chat is done.</b> Real notifications that arrive even with the phone app closed, for "finished" and "needs you". Tap one to open that chat. Chats you start on the phone always notify it; chats you run on the Mac only do after 2 minutes away from the Mac.</li>
+          <li><b>One-time setup:</b> Settings → Phone Remote → Notifications on the iPhone. It needs a push key file from your Apple developer account; the card says where to get it and has a "Send test" button.</li>
+          <li><b>Plan usage on the phone.</b> The iPhone app now shows your Claude plan % at the top, the same number as the Mac's title bar. Tap it for every limit and when it resets.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 23 Nov 2026 02:07:44 +0000</pubDate>
+      <sparkle:version>135</sparkle:version>
+      <sparkle:shortVersionString>1.6.85</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.85/BerriesCode-1.6.85.zip"
+        sparkle:edSignature="HvMXf2NQmXWBwiXKA5tRaSpqt8+wRNAPApxnf3xm8lpCmvA7P4WfABZVRcPdD4Hg08Zj8b/EOpbFZPtpAucJAQ=="
+        length="29301420"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.6.84</title>
       <description><![CDATA[
         <h2>What's new in 1.6.84</h2>
