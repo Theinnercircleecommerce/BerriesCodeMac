@@ -3,6 +3,26 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.86</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.86</h2>
+        <ul>
+          <li><b>Dictation: a microphone button in the message box.</b> Click it, speak, click the tick. Your words land in the message box, not sent, so you can read them first. The cross throws them away.</li>
+          <li><b>Cleaned up on your Mac.</b> "Um" and doubled words are removed at once. A moment later Apple's on-device model tidies the punctuation and turns counted items into a list. Nothing you say leaves your Mac for this.</li>
+          <li><b>Calls (since 1.6.84):</b> they hear your whole sentence, the call pill always says what it is doing, and mute, answer now, stop and hang up each have their own button.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 23 Nov 2026 02:16:15 +0000</pubDate>
+      <sparkle:version>136</sparkle:version>
+      <sparkle:shortVersionString>1.6.86</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.86/BerriesCode-1.6.86.zip"
+        sparkle:edSignature="4yARrd1byySc++p9CdWg71Ao7Q63D5ZYic5Om1+9hznWhi+o7PgX6Cg1i/Io/Ijq2dFu7RABmQRwNMff7dYbCQ=="
+        length="29322952"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.6.85</title>
       <description><![CDATA[
         <h2>What's new in 1.6.85</h2>
