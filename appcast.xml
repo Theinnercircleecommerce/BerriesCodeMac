@@ -3,6 +3,25 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.87</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.87</h2>
+        <ul>
+          <li><b>Fixed "error: unknown option".</b> A message that started with a dash (for example a dictated list) made the chat fail. Messages can now start with anything.</li>
+          <li><b>Dictation no longer turns every sentence into a bullet point.</b> You get normal sentences. You only get a list when you ask for one: say "bullet points" or "list" and then the items, or count them ("first..., second..., third...").</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 23 Nov 2026 02:43:59 +0000</pubDate>
+      <sparkle:version>137</sparkle:version>
+      <sparkle:shortVersionString>1.6.87</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.87/BerriesCode-1.6.87.zip"
+        sparkle:edSignature="ulhTwavoPx5yUuxO3ZJMaLq9XzBhZRIM34Dm/8AvDCX8o/vpc7KhLh31L+gl/2urIRbNVgj4OwihqSZFyB7aDA=="
+        length="29324058"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.6.86</title>
       <description><![CDATA[
         <h2>What's new in 1.6.86</h2>
