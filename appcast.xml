@@ -3,6 +3,26 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.89</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.89</h2>
+        <ul>
+          <li><b>Your AI can now make pictures itself.</b> Just ask in any chat ("make me a product photo of..."). It uses your Higgsfield account, saves the picture and tells you where it is.</li>
+          <li><b>New: Settings → Images.</b> Pick which engine makes your pictures (GPT Image 2.5, Nano Banana Pro, Soul V2 and more), plus the default shape and quality. The AI and the Make Image window both use this choice.</li>
+          <li><b>Switch Higgsfield accounts.</b> Settings → Images shows which account is connected, with Disconnect and Switch account buttons.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Tue, 24 Nov 2026 03:08:44 +0000</pubDate>
+      <sparkle:version>139</sparkle:version>
+      <sparkle:shortVersionString>1.6.89</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.89/BerriesCode-1.6.89.zip"
+        sparkle:edSignature="u3bmP8ntN7SWxOIbKAPemzmAOljBeFUhFhrAe7BsjMtZhKt1KjB8Fm50NG2Q8sAVh9NDhz4aTMZ8/TBmWHWJDA=="
+        length="29525088"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.6.88</title>
       <description><![CDATA[
         <h2>What's new in 1.6.88</h2>
