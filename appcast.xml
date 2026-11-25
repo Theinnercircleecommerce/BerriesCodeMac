@@ -3,6 +3,26 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.91</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.91</h2>
+        <ul>
+          <li><b>See how hard your Mac is working.</b> A small live line in the top bar, next to your usage ring, says Mac, Busy or Slow (purple, orange, red).</li>
+          <li><b>Click it to see what's using your Mac</b> in plain words: which chat (by project), simulators (with a Turn off button), Xcode builds, Chrome and other apps, with memory and processor for each.</li>
+          <li><b>A heads-up when your Mac is struggling</b> for 30 seconds, naming the biggest users. Turn it off in the same popup.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 25 Nov 2026 06:27:29 +0000</pubDate>
+      <sparkle:version>141</sparkle:version>
+      <sparkle:shortVersionString>1.6.91</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.91/BerriesCode-1.6.91.zip"
+        sparkle:edSignature="pnJQfvGlW3GfpgdthZ61dAVHjxS7aTVqnu0Ke/W56KnH8ZGpR0DHM+1URhgVJo57huzxjMEl7uoVGADZbOiQCg=="
+        length="29617458"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.6.90</title>
       <description><![CDATA[
         <h2>What's new in 1.6.90</h2>
