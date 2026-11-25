@@ -3,6 +3,26 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.90</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.90</h2>
+        <ul>
+          <li><b>Simulators turn themselves off.</b> iPhone and iPad simulators nobody has used for 20 minutes are switched off, so they stop eating your Mac's memory. Change the time (or turn it off) in Settings → General.</li>
+          <li><b>Power button in the phone panel.</b> Turn the simulator off right away; the device menu also has Turn Off All Simulators. Your apps stay installed.</li>
+          <li><b>Split view shows who's done.</b> A pane's title bar turns green when its reply is finished and yellow when it needs you. Unread chats get a green dot in the sidebar.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 25 Nov 2026 05:53:43 +0000</pubDate>
+      <sparkle:version>140</sparkle:version>
+      <sparkle:shortVersionString>1.6.90</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.90/BerriesCode-1.6.90.zip"
+        sparkle:edSignature="/tGXKAAdVU5CXR2wG2xN8SXDYvWaf6FPrmHdxBK3MqIKQixKWD13ypvoo54m6LqwFhU9sKaCp2jxHj1hPdhmDw=="
+        length="29558092"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.6.89</title>
       <description><![CDATA[
         <h2>What's new in 1.6.89</h2>
