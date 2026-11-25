@@ -3,6 +3,26 @@
   <channel>
     <title>Berries Code</title>
     <item>
+      <title>Version 1.6.92</title>
+      <description><![CDATA[
+        <h2>What's new in 1.6.92</h2>
+        <ul>
+          <li><b>Chats can read videos.</b> Paste a video link (YouTube, TikTok, Instagram, Facebook, X) and ask about it. The chat fetches what is said, with timestamps, and answers from that.</li>
+          <li><b>Fast, whatever the length.</b> It uses the same route as Inner Circle (Supadata, with Deepgram as backup), so an hour-long video takes seconds, not minutes. Your Mac does not download the video.</li>
+          <li><b>Files too.</b> Give it the path of a video or audio file on your Mac and it gets the words the same way.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 25 Nov 2026 06:59:52 +0000</pubDate>
+      <sparkle:version>142</sparkle:version>
+      <sparkle:shortVersionString>1.6.92</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Theinnercircleecommerce/BerriesCodeMac/releases/download/v1.6.92/BerriesCode-1.6.92.zip"
+        sparkle:edSignature="SM/+VkdDzJMdF9l7tGTsvQJy3OPny0W3DvUFxkmI5X/wlQL2WLy0nLOpMiLeFr3mP2mXbgl5uMivSDrEf4sjBQ=="
+        length="29674971"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.6.91</title>
       <description><![CDATA[
         <h2>What's new in 1.6.91</h2>
